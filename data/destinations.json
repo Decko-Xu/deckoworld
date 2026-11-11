@@ -1,0 +1,77 @@
+{
+  "note": "Edita este archivo para añadir destinos reales. Usa placeholder: true mientras no tengas foto, ciudad y fecha confirmadas. No publiques un lugar inventado como si ya lo hubieras visitado.",
+  "destinations": [
+    {
+      "id": "mar-atardecer",
+      "name": "El mar al atardecer",
+      "place": "Lugar por confirmar",
+      "placeholder": false,
+      "source": "video",
+      "badge": "Desde el canal",
+      "blurb": "Olas en la orilla y el sol bajando. El propio video dice que fue grabado en uno de sus viajes, pero no nombra el destino.",
+      "videoId": "_IRBH4o1Egs",
+      "url": "https://www.youtube.com/watch?v=_IRBH4o1Egs",
+      "image": "https://i.ytimg.com/vi/_IRBH4o1Egs/hqdefault.jpg"
+    },
+    {
+      "id": "carretera",
+      "name": "Atardecer en la carretera",
+      "place": "Lugar por confirmar",
+      "placeholder": false,
+      "source": "video",
+      "badge": "Desde el canal",
+      "blurb": "Un cielo rojo, naranja y rosado, filmado en plena carretera. El short no indica el tramo ni el país.",
+      "videoId": "WIDwEYpA3as",
+      "url": "https://www.youtube.com/shorts/WIDwEYpA3as",
+      "image": "https://i.ytimg.com/vi/WIDwEYpA3as/hqdefault.jpg"
+    },
+    {
+      "id": "estoy-llegando",
+      "name": "Estoy llegando",
+      "place": "Próxima aventura",
+      "placeholder": false,
+      "source": "video",
+      "badge": "Desde el canal",
+      "blurb": "El anuncio de un camino nuevo. El destino todavía no está escrito en el canal; esta tarjeta se puede completar cuando lo cuentes.",
+      "videoId": "F0lxpk1hA6M",
+      "url": "https://www.youtube.com/shorts/F0lxpk1hA6M",
+      "image": "https://i.ytimg.com/vi/F0lxpk1hA6M/hqdefault.jpg"
+    },
+    {
+      "id": "ejemplo-1",
+      "name": "Próximo destino",
+      "place": "Ciudad, país",
+      "placeholder": true,
+      "source": "ejemplo",
+      "badge": "Ejemplo — por completar",
+      "blurb": "Añade aquí un viaje real: ciudad, país, fecha y una foto tuya. Edita data/destinations.json y cambia placeholder a false.",
+      "videoId": null,
+      "url": null,
+      "image": null
+    },
+    {
+      "id": "ejemplo-2",
+      "name": "Otra ruta",
+      "place": "Ciudad, país",
+      "placeholder": true,
+      "source": "ejemplo",
+      "badge": "Ejemplo — por completar",
+      "blurb": "Tarjeta de ejemplo para un segundo destino. Sustitúyela cuando tengas el relato y la imagen.",
+      "videoId": null,
+      "url": null,
+      "image": null
+    },
+    {
+      "id": "ejemplo-3",
+      "name": "Un lugar que quiero contar",
+      "place": "Ciudad, país",
+      "placeholder": true,
+      "source": "ejemplo",
+      "badge": "Ejemplo — por completar",
+      "blurb": "Tercer espacio reservado. La galería de viajes está pensada para crecer con el tiempo.",
+      "videoId": null,
+      "url": null,
+      "image": null
+    }
+  ]
+}
