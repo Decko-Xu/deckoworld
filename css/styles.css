@@ -677,7 +677,77 @@ a { color: inherit; }
   border-radius: 0 0.5rem 0.5rem 0;
 }
 
+
 .about-links { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.1rem; }
+
+/* Viajes banner — the logo already has a transparent background */
+.viajes-banner {
+  display: flex;
+  justify-content: center;
+  margin: 0 0 1.8rem;
+}
+.viajes-banner picture {
+  width: min(44rem, 100%);
+}
+.viajes-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Author portrait in Acerca */
+.author-block {
+  display: grid;
+  gap: 1.25rem;
+}
+.author-portrait {
+  margin: 0 auto;
+  width: min(16rem, 72%);
+  padding: 4px;
+  border-radius: 1.15rem;
+  background: linear-gradient(
+    180deg,
+    #fcd116 0 50%,
+    #003893 50% 75%,
+    #ce1126 75% 100%
+  );
+}
+.author-portrait picture,
+.author-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.95rem;
+}
+.author-copy h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.7rem, 4vw, 2.2rem);
+  letter-spacing: -0.04em;
+  margin: 0 0 0.35rem;
+  line-height: 1.1;
+}
+.author-copy .kicker { margin-bottom: 0.45rem; }
+.author-role {
+  margin: 0 0 0.2rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+.author-channel {
+  margin: 0 0 0.9rem;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  letter-spacing: -0.03em;
+  color: var(--ink-soft);
+}
+@media (min-width: 720px) {
+  .author-block {
+    grid-template-columns: 16rem 1fr;
+    align-items: start;
+    gap: 1.6rem;
+  }
+  .author-portrait { width: 100%; margin: 0; }
+}
+
 
 .stats {
   display: grid;
