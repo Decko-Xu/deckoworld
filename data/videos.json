@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-11T13:51:15-05:00",
-  "updated": "2026-11-11T13:51:15-05:00",
+  "fetchedAt": "2026-11-11T14:29:16-05:00",
+  "updated": "2026-11-11T14:29:16-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/shorts/l6Sw91LFiys",
       "published": "2026-11-11T00:15:10+00:00",
       "thumb": "https://i1.ytimg.com/vi/l6Sw91LFiys/hqdefault.jpg",
-      "views": 775,
+      "views": 777,
       "isShort": true,
       "description": "No somos muchos, no somos pocos… pero estamos todos locos 🐾 Gracias a cada loco que llegó a este planeta. Los mantenidos no ayudaron en nada, pero igual celebran 😂"
     },
@@ -50,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 1123,
+      "views": 1135,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     },
@@ -70,7 +70,7 @@
       "url": "https://www.youtube.com/shorts/YR4hI8W8bDA",
       "published": "2026-11-09T13:27:41+00:00",
       "thumb": "https://i2.ytimg.com/vi/YR4hI8W8bDA/hqdefault.jpg",
-      "views": 4897,
+      "views": 4974,
       "isShort": true,
       "description": "Round 1 en la cobija 🥊🐶 Los mantenidos no trabajan, no pagan arriendo… pero eso sí, pelean como si fueran los dueños de la casa. Y el árbitro solo dice: \"no pasa nada, ya cálmate\" 😂"
     },
@@ -132,7 +132,7 @@
       "url": "https://www.youtube.com/shorts/Dfxgithvi9c",
       "published": "2026-11-07T19:04:19+00:00",
       "thumb": "https://i1.ytimg.com/vi/Dfxgithvi9c/hqdefault.jpg",
-      "views": 1117,
+      "views": 1118,
       "isShort": true,
       "description": "Misterio resuelto: la culpa no es de la comida fina, es del champú \"para dar cuerpo y volumen\" 🧴😂 La solución es épica: mañana baño con lavaplatos, que disuelve hasta la grasa más difícil."
     },
