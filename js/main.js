@@ -287,13 +287,65 @@
   const yearEl = $("[data-year]");
   if (yearEl) yearEl.textContent = String(new Date().getFullYear());
 
+  function formatInt(n) {
+    try {
+      return new Intl.NumberFormat("es-CO").format(n);
+    } catch {
+      return String(n);
+    }
+  }
+
+  function formatUpdated(iso) {
+    if (!iso) return "";
+    try {
+      const d = new Date(iso);
+      if (Number.isNaN(d.getTime())) return "Actualizado: " + iso;
+      const date = new Intl.DateTimeFormat("es-CO", {
+        day: "numeric",
+        month: "short",
+        year: "numeric",
+        timeZone: "America/Bogota",
+      }).format(d);
+      const time = new Intl.DateTimeFormat("es-CO", {
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: false,
+        timeZone: "America/Bogota",
+      }).format(d);
+      return "Actualizado: " + date + ", " + time;
+    } catch {
+      return "Actualizado: " + iso;
+    }
+  }
+
+  function applyChannel(ch) {
+    if (!ch) return;
+    const map = {};
+    if (ch.subscriberCount != null) map.subscribers = formatInt(ch.subscriberCount);
+    if (ch.videoCountNum != null) map.videos = formatInt(ch.videoCountNum);
+    if (ch.viewCount != null) map.views = formatInt(ch.viewCount);
+    Object.keys(map).forEach(function (key) {
+      $$('[data-stat="' + key + '"]').forEach(function (el) {
+        el.textContent = map[key];
+      });
+    });
+    const stamp = formatUpdated(ch.updated || ch.fetchedAt || ch.statsAsOf);
+    if (stamp) {
+      $$("[data-updated]").forEach(function (el) {
+        el.textContent = stamp;
+      });
+    }
+  }
+
   Promise.all([
     loadJSON("data/videos.json", FALLBACK_VIDEOS),
     loadJSON("data/destinations.json", FALLBACK_DESTINATIONS),
-  ]).then(([videoData, travelData]) => {
+    loadJSON("data/channel.json", null),
+  ]).then(([videoData, travelData, channelData]) => {
     allVideos = videoData.videos || videoData;
     renderFeatured(allVideos);
     renderGrid(allVideos, currentFilter);
     renderTravel(travelData);
+    applyChannel(channelData);
   });
 })();

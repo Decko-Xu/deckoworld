@@ -769,6 +769,13 @@ a { color: inherit; }
 }
 .stat span { color: var(--muted); font-size: 0.82rem; }
 
+.stats-block { display: grid; gap: 0.75rem; align-content: start; }
+.updated-at {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--line);

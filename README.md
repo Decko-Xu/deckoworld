@@ -38,3 +38,7 @@ Si más adelante quieres un dominio propio (por ejemplo `deckoworld.com`), se co
 - Canal: [youtube.com/@DeckoWorld](https://www.youtube.com/@DeckoWorld) (ID `UCy3N1TamDtigaMVb2373SoA`).
 - Cifras del about público consultadas el 11 de noviembre de 2026 (hora de Bogotá): 238 suscriptores, 63 videos, 77.436 vistas, unido el 7 oct 2011, país Colombia.
 - La descripción de “Acerca” es la del propio canal.
+
+## Datos del canal
+
+Las cifras y el listado de videos se actualizan solos, más o menos cada 6 horas, con un flujo de GitHub Actions (`scripts/update_data.py`) que lee el RSS y la página pública de YouTube. Si una descarga falla, se conservan los datos anteriores. También se puede lanzar a mano desde la pestaña Actions.
