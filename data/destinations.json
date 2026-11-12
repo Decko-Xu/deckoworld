@@ -2,6 +2,18 @@
   "note": "Edita este archivo para añadir destinos reales. Usa placeholder: true mientras no tengas foto, ciudad y fecha confirmadas. No publiques un lugar inventado como si ya lo hubieras visitado.",
   "destinations": [
     {
+      "id": "rd-diciembre-2024",
+      "name": "Atardecer en la orilla",
+      "place": "República Dominicana · diciembre 2024",
+      "placeholder": false,
+      "source": "foto",
+      "badge": "Viaje",
+      "blurb": "Un atardecer en la playa, fotografiado en diciembre de 2024.",
+      "videoId": null,
+      "url": null,
+      "image": "assets/viajes/rd-diciembre-2024.jpg"
+    },
+    {
       "id": "mar-atardecer",
       "name": "El mar al atardecer",
       "place": "Lugar por confirmar",
@@ -36,42 +48,6 @@
       "videoId": "F0lxpk1hA6M",
       "url": "https://www.youtube.com/shorts/F0lxpk1hA6M",
       "image": "https://i.ytimg.com/vi/F0lxpk1hA6M/hqdefault.jpg"
-    },
-    {
-      "id": "ejemplo-1",
-      "name": "Próximo destino",
-      "place": "Ciudad, país",
-      "placeholder": true,
-      "source": "ejemplo",
-      "badge": "Ejemplo — por completar",
-      "blurb": "Añade aquí un viaje real: ciudad, país, fecha y una foto tuya. Edita data/destinations.json y cambia placeholder a false.",
-      "videoId": null,
-      "url": null,
-      "image": null
-    },
-    {
-      "id": "ejemplo-2",
-      "name": "Otra ruta",
-      "place": "Ciudad, país",
-      "placeholder": true,
-      "source": "ejemplo",
-      "badge": "Ejemplo — por completar",
-      "blurb": "Tarjeta de ejemplo para un segundo destino. Sustitúyela cuando tengas el relato y la imagen.",
-      "videoId": null,
-      "url": null,
-      "image": null
-    },
-    {
-      "id": "ejemplo-3",
-      "name": "Un lugar que quiero contar",
-      "place": "Ciudad, país",
-      "placeholder": true,
-      "source": "ejemplo",
-      "badge": "Ejemplo — por completar",
-      "blurb": "Tercer espacio reservado. La galería de viajes está pensada para crecer con el tiempo.",
-      "videoId": null,
-      "url": null,
-      "image": null
     }
   ]
 }
