@@ -223,57 +223,49 @@
         const photos = imageList(d);
         let visual;
         if (photos.length) {
-          const open = d.videoId
-            ? ' data-open="' + escapeHTML(d.videoId) + '" role="button" tabindex="0"'
-            : d.url
-            ? ' href="' + escapeHTML(d.url) + '" target="_blank" rel="noopener noreferrer"'
-            : "";
-          const tag = d.videoId ? "button" : d.url ? "a" : "div";
-          const type = d.videoId ? ' type="button"' : "";
-          const linked = d.videoId ? videoById(d.videoId) : null;
-          const shortCls = linked && linked.isShort ? " is-short-thumb" : "";
           const gallery = photos.length > 1;
-          const galleryCls = gallery ? " is-gallery" : "";
-          const galleryAttrs = gallery
-            ? ' data-gallery data-images="' + photos.map(escapeHTML).join("|") + '" role="button" tabindex="0" aria-label="' + escapeHTML(d.name + ", " + photos.length + " fotos") + '"'
-            : "";
+          const slides =
+            '<div class="travel-slides">' +
+            photos
+              .map(function (src, i) {
+                return (
+                  '<img src="' +
+                  escapeHTML(src) +
+                  '" alt="" width="1920" height="1080"' +
+                  (i === 0 ? ' class="is-active"' : "") +
+                  ">"
+                );
+              })
+              .join("") +
+            "</div>";
           const dots = gallery
-            ? '<div class="travel-dots" role="tablist" aria-label="Fotos">' +
+            ? '<div class="travel-dots" aria-hidden="true">' +
               photos
                 .map(function (_, i) {
                   return (
-                    '<button type="button" data-dot="' +
+                    '<span data-dot="' +
                     i +
                     '" class="' +
                     (i === 0 ? "is-active" : "") +
-                    '" aria-label="Foto ' +
-                    (i + 1) +
-                    " de " +
-                    photos.length +
-                    '"></button>'
+                    '"></span>'
                   );
                 })
                 .join("") +
               "</div>"
             : "";
           visual =
-            "<" +
-            tag +
-            ' class="travel-visual' +
-            shortCls +
-            galleryCls +
+            '<div class="travel-visual' +
+            (gallery ? " is-gallery" : "") +
             '"' +
-            type +
-            open +
-            galleryAttrs +
-            (gallery || d.videoId ? "" : ' aria-label="' + escapeHTML(d.name) + '"') +
-            '><img src="' +
-            escapeHTML(photos[0]) +
-            '" alt="" width="1920" height="1080">' +
+            (gallery
+              ? ' data-gallery tabindex="0" aria-label="' +
+                escapeHTML(d.name + ", " + photos.length + " fotos") +
+                '"'
+              : "") +
+            ">" +
+            slides +
             dots +
-            "</" +
-            tag +
-            ">";
+            "</div>";
         } else {
           visual =
             '<div class="travel-visual"><div class="travel-ph">' +
@@ -297,39 +289,45 @@
         );
       })
       .join("");
-    $$("[data-open]", grid).forEach((btn) => {
-      const v = videoById(btn.getAttribute("data-open"));
-      if (v) {
-        bindOpen(btn, v);
-        btn.addEventListener("keydown", (e) => {
-          if (e.key === "Enter" || e.key === " ") {
-            e.preventDefault();
-            openLightbox(v);
-          }
-        });
-      }
-    });
+
     $$("[data-gallery]", grid).forEach((el) => {
-      const images = (el.getAttribute("data-images") || "").split("|").filter(Boolean);
-      if (images.length < 2) return;
-      const img = el.querySelector("img");
+      const slides = $$(".travel-slides img", el);
+      if (slides.length < 2) return;
       const dots = $$("[data-dot]", el);
       let i = 0;
+      let timer = null;
+      let kick = null;
       const show = (n) => {
-        i = ((n % images.length) + images.length) % images.length;
-        img.src = images[i];
+        i = ((n % slides.length) + slides.length) % slides.length;
+        slides.forEach((img, k) => img.classList.toggle("is-active", k === i));
         dots.forEach((dot, k) => dot.classList.toggle("is-active", k === i));
       };
-      el.addEventListener("click", (e) => {
-        const dot = e.target.closest("[data-dot]");
-        if (dot) {
-          e.preventDefault();
-          e.stopPropagation();
-          show(Number(dot.getAttribute("data-dot")));
-          return;
+      const stop = () => {
+        if (timer) {
+          clearInterval(timer);
+          timer = null;
         }
-        show(i + 1);
-      });
+        if (kick) {
+          clearTimeout(kick);
+          kick = null;
+        }
+      };
+      const canHover = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+      if (canHover) {
+        el.addEventListener("mouseenter", () => {
+          stop();
+          kick = setTimeout(() => {
+            show(i + 1);
+            timer = setInterval(() => show(i + 1), 1600);
+          }, 350);
+        });
+        el.addEventListener("mouseleave", () => {
+          stop();
+          show(0);
+        });
+      } else {
+        el.addEventListener("click", () => show(i + 1));
+      }
       el.addEventListener("keydown", (e) => {
         if (e.key === "Enter" || e.key === " " || e.key === "ArrowRight") {
           e.preventDefault();
