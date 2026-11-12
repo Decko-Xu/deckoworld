@@ -1,53 +1,22 @@
 {
-  "note": "Edita este archivo para añadir destinos reales. Usa placeholder: true mientras no tengas foto, ciudad y fecha confirmadas. No publiques un lugar inventado como si ya lo hubieras visitado.",
+  "note": "Edita este archivo para añadir destinos reales con foto, ciudad y fecha confirmadas. Esta sección es solo para fotos de viajes, no para videos del canal.",
   "destinations": [
     {
       "id": "rd-diciembre-2024",
-      "name": "Atardecer en la orilla",
-      "place": "República Dominicana · diciembre 2024",
+      "name": "República Dominicana",
+      "place": "Diciembre 2024",
       "placeholder": false,
       "source": "foto",
       "badge": "Viaje",
-      "blurb": "Un atardecer en la playa, fotografiado en diciembre de 2024.",
+      "blurb": "Atardeceres y un cielo cargado sobre el Caribe, fotografiados en diciembre de 2024.",
       "videoId": null,
       "url": null,
-      "image": "assets/viajes/rd-diciembre-2024.jpg"
-    },
-    {
-      "id": "mar-atardecer",
-      "name": "El mar al atardecer",
-      "place": "Lugar por confirmar",
-      "placeholder": false,
-      "source": "video",
-      "badge": "Desde el canal",
-      "blurb": "Olas en la orilla y el sol bajando. El propio video dice que fue grabado en uno de sus viajes, pero no nombra el destino.",
-      "videoId": "_IRBH4o1Egs",
-      "url": "https://www.youtube.com/watch?v=_IRBH4o1Egs",
-      "image": "https://i.ytimg.com/vi/_IRBH4o1Egs/hqdefault.jpg"
-    },
-    {
-      "id": "carretera",
-      "name": "Atardecer en la carretera",
-      "place": "Lugar por confirmar",
-      "placeholder": false,
-      "source": "video",
-      "badge": "Desde el canal",
-      "blurb": "Un cielo rojo, naranja y rosado, filmado en plena carretera. El short no indica el tramo ni el país.",
-      "videoId": "WIDwEYpA3as",
-      "url": "https://www.youtube.com/shorts/WIDwEYpA3as",
-      "image": "https://i.ytimg.com/vi/WIDwEYpA3as/hqdefault.jpg"
-    },
-    {
-      "id": "estoy-llegando",
-      "name": "Estoy llegando",
-      "place": "Próxima aventura",
-      "placeholder": false,
-      "source": "video",
-      "badge": "Desde el canal",
-      "blurb": "El anuncio de un camino nuevo. El destino todavía no está escrito en el canal; esta tarjeta se puede completar cuando lo cuentes.",
-      "videoId": "F0lxpk1hA6M",
-      "url": "https://www.youtube.com/shorts/F0lxpk1hA6M",
-      "image": "https://i.ytimg.com/vi/F0lxpk1hA6M/hqdefault.jpg"
+      "image": "assets/viajes/rd-diciembre-2024.jpg",
+      "images": [
+        "assets/viajes/rd-diciembre-2024.jpg",
+        "assets/viajes/rd-diciembre-2024-b.jpg",
+        "assets/viajes/rd-diciembre-2024-c.jpg"
+      ]
     }
   ]
 }
