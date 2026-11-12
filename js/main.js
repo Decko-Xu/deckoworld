@@ -368,7 +368,10 @@
         return (
           '<article class="x-post">' +
           '<figure class="x-post-photo">' +
+          '<div class="x-post-frame">' +
           img +
+          "</div>" +
+          '<img class="x-post-crow" src="assets/posts/marco-cuervo.png" alt="" width="113" height="109">' +
           "</figure>" +
           '<div class="x-post-body">' +
           "<h3>" +
