@@ -1,16 +1,28 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-11T14:29:16-05:00",
-  "updated": "2026-11-11T14:29:16-05:00",
+  "fetchedAt": "2026-11-11T19:46:16-05:00",
+  "updated": "2026-11-11T19:46:16-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "eOTGUc2vZ_I",
+      "title": "Los mantenidos: 6 minutos sin trabajar 🐶😴 | Recopilación de El planeta de Decko",
+      "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
+      "published": "2026-11-11T22:19:26+00:00",
+      "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
+      "views": 5,
+      "isShort": false,
+      "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
+      "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
+      "featured": true
+    },
     {
       "id": "pF8SS874vmA",
       "title": "Fiesta de los mantenidos 🎉🐶 Hoy nadie trabaja (como siempre) #Shorts",
       "url": "https://www.youtube.com/shorts/pF8SS874vmA",
       "published": "2026-11-11T15:00:05+00:00",
       "thumb": "https://i1.ytimg.com/vi/pF8SS874vmA/hqdefault.jpg",
-      "views": 808,
+      "views": 1014,
       "isShort": true,
       "description": "Peluches, música y cero responsabilidades: así se vive en la fiesta de los mantenidos 🎉🐾 ¿Trabajar? Eso es para otros. Aquí se vino a gozar."
     },
@@ -20,7 +32,7 @@
       "url": "https://www.youtube.com/shorts/l6Sw91LFiys",
       "published": "2026-11-11T00:15:10+00:00",
       "thumb": "https://i1.ytimg.com/vi/l6Sw91LFiys/hqdefault.jpg",
-      "views": 777,
+      "views": 786,
       "isShort": true,
       "description": "No somos muchos, no somos pocos… pero estamos todos locos 🐾 Gracias a cada loco que llegó a este planeta. Los mantenidos no ayudaron en nada, pero igual celebran 😂"
     },
@@ -30,7 +42,7 @@
       "url": "https://www.youtube.com/shorts/nmZVNZfnejY",
       "published": "2026-11-10T22:45:20+00:00",
       "thumb": "https://i3.ytimg.com/vi/nmZVNZfnejY/hqdefault.jpg",
-      "views": 910,
+      "views": 911,
       "isShort": true,
       "description": "Los mantenidos estaban pegados al celular como si pagaran el plan de datos 📱 Se acabó la fiesta: cobija, canción de cuna y a dormir. Mañana hay que seguir sin trabajar 😴🐾"
     },
@@ -40,7 +52,7 @@
       "url": "https://www.youtube.com/shorts/ztSa5IJKR1U",
       "published": "2026-11-10T19:00:29+00:00",
       "thumb": "https://i3.ytimg.com/vi/ztSa5IJKR1U/hqdefault.jpg",
-      "views": 1174,
+      "views": 1212,
       "isShort": true,
       "description": "En Estados Unidos ya se siente Acción de Gracias… y los pavos llegaron solitos, en manada y sin invitación. 🦃🍂 Uno hasta abrió la cola para lucirse. Valiente, sabiendo qué fecha viene."
     },
@@ -50,7 +62,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 1135,
+      "views": 2447,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     },
@@ -60,7 +72,7 @@
       "url": "https://www.youtube.com/shorts/zlam1XF9FT8",
       "published": "2026-11-09T20:57:20+00:00",
       "thumb": "https://i3.ytimg.com/vi/zlam1XF9FT8/hqdefault.jpg",
-      "views": 1025,
+      "views": 1026,
       "isShort": true,
       "description": "Los mantenidos no trabajan, no pagan arriendo… pero con esa carita, ¿quién les dice que no? 🐶🥹 Y la mamá pasando revista para ver quién se porta bien."
     },
@@ -70,7 +82,7 @@
       "url": "https://www.youtube.com/shorts/YR4hI8W8bDA",
       "published": "2026-11-09T13:27:41+00:00",
       "thumb": "https://i2.ytimg.com/vi/YR4hI8W8bDA/hqdefault.jpg",
-      "views": 4974,
+      "views": 5836,
       "isShort": true,
       "description": "Round 1 en la cobija 🥊🐶 Los mantenidos no trabajan, no pagan arriendo… pero eso sí, pelean como si fueran los dueños de la casa. Y el árbitro solo dice: \"no pasa nada, ya cálmate\" 😂"
     },
@@ -80,7 +92,7 @@
       "url": "https://www.youtube.com/shorts/yNcAn36I85Y",
       "published": "2026-11-08T23:00:06+00:00",
       "thumb": "https://i2.ytimg.com/vi/yNcAn36I85Y/hqdefault.jpg",
-      "views": 1011,
+      "views": 1013,
       "isShort": true,
       "description": "Otro mantenido que piensa pagar el arriendo con ternura. Y con esa carita… difícil cobrarle. 🐶🥹"
     },
@@ -90,11 +102,10 @@
       "url": "https://www.youtube.com/watch?v=_IRBH4o1Egs",
       "published": "2026-11-08T18:22:31+00:00",
       "thumb": "https://i.ytimg.com/vi/_IRBH4o1Egs/maxresdefault.jpg",
-      "views": 29,
+      "views": 33,
       "isShort": false,
       "description": "Olas rompiendo en la orilla, el sol bajando y nada más. 🌊🌅 Ponlo de fondo para descansar, leer, trabajar o simplemente desconectarte un rato.",
-      "thumbFallback": "https://i.ytimg.com/vi/_IRBH4o1Egs/hqdefault.jpg",
-      "featured": true
+      "thumbFallback": "https://i.ytimg.com/vi/_IRBH4o1Egs/hqdefault.jpg"
     },
     {
       "id": "PlXciCTn1X4",
@@ -102,7 +113,7 @@
       "url": "https://www.youtube.com/shorts/PlXciCTn1X4",
       "published": "2026-11-08T17:54:53+00:00",
       "thumb": "https://i1.ytimg.com/vi/PlXciCTn1X4/hqdefault.jpg",
-      "views": 1060,
+      "views": 1065,
       "isShort": true,
       "description": "Cuatro bebés, cuatro personalidades y cero ganas de trabajar. 🐶🍼 ¿El 1, el 2, el 3 o el 4? Dime en los comentarios cuál te robarías."
     },
@@ -112,7 +123,7 @@
       "url": "https://www.youtube.com/shorts/WIDwEYpA3as",
       "published": "2026-11-08T13:23:19+00:00",
       "thumb": "https://i4.ytimg.com/vi/WIDwEYpA3as/hqdefault.jpg",
-      "views": 10,
+      "views": 12,
       "isShort": true,
       "description": "Íbamos por la carretera y el cielo decidió dar show: rojo, naranja y rosado de lado a lado. 🌅"
     },
@@ -122,7 +133,7 @@
       "url": "https://www.youtube.com/shorts/ZuWAcs9MZ7M",
       "published": "2026-11-07T20:08:34+00:00",
       "thumb": "https://i3.ytimg.com/vi/ZuWAcs9MZ7M/hqdefault.jpg",
-      "views": 213,
+      "views": 214,
       "isShort": true,
       "description": "Un paseo entre luces rojas y verdes, árboles iluminados y música de estilo hawaiano. 🌺✨"
     },
@@ -132,7 +143,7 @@
       "url": "https://www.youtube.com/shorts/Dfxgithvi9c",
       "published": "2026-11-07T19:04:19+00:00",
       "thumb": "https://i1.ytimg.com/vi/Dfxgithvi9c/hqdefault.jpg",
-      "views": 1118,
+      "views": 1123,
       "isShort": true,
       "description": "Misterio resuelto: la culpa no es de la comida fina, es del champú \"para dar cuerpo y volumen\" 🧴😂 La solución es épica: mañana baño con lavaplatos, que disuelve hasta la grasa más difícil."
     },
@@ -142,19 +153,9 @@
       "url": "https://www.youtube.com/shorts/F0lxpk1hA6M",
       "published": "2026-11-07T04:30:41+00:00",
       "thumb": "https://i3.ytimg.com/vi/F0lxpk1hA6M/hqdefault.jpg",
-      "views": 59,
+      "views": 61,
       "isShort": true,
       "description": "¡Gente, estoy llegando! Y tengo esa certeza de que lo que viene será extraordinario. Se vienen nuevos caminos, grandes momentos y cosas maravillosas."
-    },
-    {
-      "id": "4RRwm4k03jU",
-      "title": "Solo son 1000 seguidores… ¿Me ayudas a llegar? 🚗 #shorts",
-      "url": "https://www.youtube.com/shorts/4RRwm4k03jU",
-      "published": "2026-11-06T22:39:22+00:00",
-      "thumb": "https://i1.ytimg.com/vi/4RRwm4k03jU/hqdefault.jpg",
-      "views": 1000,
-      "isShort": true,
-      "description": "Un clásico pequeño, pero con toda la actitud. Estamos a nada de los 1000 seguidores y cada uno cuenta. 🖤"
     }
   ]
 }
