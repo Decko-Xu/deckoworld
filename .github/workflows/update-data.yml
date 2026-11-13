@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Descargar datos públicos de YouTube
+      - name: Descargar datos públicos de YouTube y X
         run: python scripts/update_data.py
 
       - name: Confirmar cambios si los hay
@@ -35,6 +35,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Sin cambios en los datos."
           else
-            git commit -m "Actualizar datos del canal de YouTube"
+            git commit -m "Actualizar datos de YouTube y X"
             git push
           fi

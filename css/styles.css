@@ -327,6 +327,14 @@ a { color: inherit; }
   font-size: 0.86rem;
 }
 .hero-meta strong { color: var(--ink-soft); font-weight: 600; }
+.hero-meta a.hero-stat-link {
+  color: inherit;
+  text-decoration: none;
+}
+.hero-meta a.hero-stat-link:hover strong,
+.hero-meta a.hero-stat-link:focus-visible strong {
+  text-decoration: underline;
+}
 .hero-note { width: 100%; font-size: 0.75rem; opacity: 0.8; }
 
 .hero-portrait {
@@ -803,6 +811,14 @@ a { color: inherit; }
   margin-bottom: 0.15rem;
 }
 .stat span { color: var(--muted); font-size: 0.82rem; }
+a.stat {
+  color: inherit;
+  text-decoration: none;
+}
+a.stat:hover,
+a.stat:focus-visible {
+  border-color: var(--ink-soft);
+}
 
 .stats-block { display: grid; gap: 0.75rem; align-content: start; }
 .updated-at {

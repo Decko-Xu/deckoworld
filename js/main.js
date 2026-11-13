@@ -442,6 +442,7 @@
     if (ch.subscriberCount != null) map.subscribers = formatInt(ch.subscriberCount);
     if (ch.videoCountNum != null) map.videos = formatInt(ch.videoCountNum);
     if (ch.viewCount != null) map.views = formatInt(ch.viewCount);
+    if (ch.xFollowerCount != null && ch.xFollowerCount > 0) map.xFollowers = formatInt(ch.xFollowerCount);
     Object.keys(map).forEach(function (key) {
       $$('[data-stat="' + key + '"]').forEach(function (el) {
         el.textContent = map[key];

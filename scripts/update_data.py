@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
-"""Actualiza data/videos.json y data/channel.json desde fuentes públicas de YouTube.
+"""Actualiza data/videos.json y data/channel.json desde fuentes públicas.
+
+YouTube: RSS del canal y la página /about (videos, suscriptores, vistas).
+X: recuento de seguidores de @Frankzm vía la API pública de FxTwitter.
 
 Si una descarga o el parseo falla, se conservan los datos anteriores.
-Nunca se escriben listas de videos vacías.
+Nunca se escriben listas de videos vacías ni un recuento de seguidores en 0.
+Un fallo al leer X no impide actualizar YouTube, y viceversa.
 """
 from __future__ import annotations
 
@@ -19,6 +23,14 @@ CHANNEL_ID = "UCy3N1TamDtigaMVb2373SoA"
 RSS_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
 ABOUT_URL = "https://www.youtube.com/@DeckoWorld/about"
 CHANNEL_URL = "https://www.youtube.com/@DeckoWorld"
+X_HANDLE = "Frankzm"
+X_PROFILE_URL = "https://x.com/Frankzm"
+# minúsculas primero: la ruta mixta a veces responde 404
+FXTWITTER_URLS = (
+    "https://api.fxtwitter.com/frankzm",
+    "https://api.fxtwitter.com/2/profile/frankzm",
+    "https://api.fxtwitter.com/Frankzm",
+)
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -68,8 +80,11 @@ def dump_json(path: Path, data: dict) -> None:
     path.write_text(text, encoding="utf-8")
 
 
-def fetch(url: str) -> bytes | None:
-    req = Request(url, headers={"User-Agent": USER_AGENT, "Accept-Language": "es-CO,es;q=0.9"})
+def fetch(url: str, accept: str | None = None) -> bytes | None:
+    headers = {"User-Agent": USER_AGENT, "Accept-Language": "es-CO,es;q=0.9"}
+    if accept:
+        headers["Accept"] = accept
+    req = Request(url, headers=headers)
     try:
         with urlopen(req, timeout=TIMEOUT) as resp:
             return resp.read()
@@ -254,6 +269,82 @@ def parse_channel_page(html: str, previous: dict) -> dict:
     return out
 
 
+MONTHS_ES = {
+    "January": "enero",
+    "February": "febrero",
+    "March": "marzo",
+    "April": "abril",
+    "May": "mayo",
+    "June": "junio",
+    "July": "julio",
+    "August": "agosto",
+    "September": "septiembre",
+    "October": "octubre",
+    "November": "noviembre",
+    "December": "diciembre",
+}
+
+
+def consulted_on() -> str:
+    stamp = now_bogota().strftime("%d de %B de %Y, %H:%M")
+    for en, es in MONTHS_ES.items():
+        stamp = stamp.replace(en, es)
+    return stamp
+
+
+def extract_x_followers(payload: object) -> int | None:
+    if not isinstance(payload, dict):
+        return None
+    user = payload.get("user")
+    if not isinstance(user, dict):
+        data = payload.get("data")
+        user = data if isinstance(data, dict) else payload
+    candidates: list[object] = []
+    if isinstance(user, dict):
+        candidates.extend([user.get("followers"), user.get("followers_count")])
+        metrics = user.get("public_metrics")
+        if isinstance(metrics, dict):
+            candidates.append(metrics.get("followers_count"))
+    for raw in candidates:
+        if raw is None or raw == "":
+            continue
+        try:
+            n = int(str(raw).replace(",", "").replace(".", "").replace(" ", ""))
+        except (TypeError, ValueError):
+            continue
+        if n > 0:
+            return n
+    return None
+
+
+def fetch_x_followers() -> tuple[int | None, str | None]:
+    """Devuelve (seguidores, url_usada) o (None, None) si no hay un recuento válido."""
+    for url in FXTWITTER_URLS:
+        raw = fetch(url, accept="application/json")
+        if not raw:
+            continue
+        try:
+            payload = json.loads(raw.decode("utf-8"))
+        except (UnicodeDecodeError, json.JSONDecodeError) as exc:
+            log(f"No se pudo parsear {url}: {exc}")
+            continue
+        count = extract_x_followers(payload)
+        if count is not None:
+            return count, url
+        log(f"La respuesta de {url} no trae un recuento válido de seguidores.")
+    return None, None
+
+
+def apply_x_followers(channel: dict, count: int, url: str) -> None:
+    channel["xFollowerCount"] = count
+    channel["xFollowers"] = f"{format_es_int(count)} seguidores en X"
+    channel.setdefault("xUrl", X_PROFILE_URL)
+    channel.setdefault("xHandle", f"@{X_HANDLE}")
+    channel["xSource"] = (
+        f"API pública de FxTwitter {url}, consultada el {consulted_on()} (hora de Bogotá)."
+    )
+
+
 def same_payload(old: dict, new: dict, ignore: set[str]) -> bool:
     def scrub(obj: dict) -> dict:
         return {k: v for k, v in obj.items() if k not in ignore}
@@ -320,14 +411,15 @@ def main() -> int:
     else:
         warnings += 1
 
-    if channel_update and channel_update.pop("_parsed", False):
+    youtube_ok = bool(channel_update and channel_update.pop("_parsed", False))
+    if youtube_ok:
         # restore required identity fields if missing
         channel_update.setdefault("brand", previous_channel.get("brand", "Decko World"))
         channel_update.setdefault("handle", "@DeckoWorld")
         channel_update.setdefault("channelId", CHANNEL_ID)
         channel_update.setdefault("url", CHANNEL_URL)
-        channel_update.setdefault("xUrl", previous_channel.get("xUrl", "https://x.com/Frankzm"))
-        channel_update.setdefault("xHandle", previous_channel.get("xHandle", "@Frankzm"))
+        channel_update.setdefault("xUrl", previous_channel.get("xUrl", X_PROFILE_URL))
+        channel_update.setdefault("xHandle", previous_channel.get("xHandle", f"@{X_HANDLE}"))
         channel_update.setdefault(
             "tagline",
             previous_channel.get("tagline", "Porque vivir también es dejar huellas."),
@@ -336,39 +428,33 @@ def main() -> int:
         channel_update["updated"] = updated_iso
         channel_update["source"] = (
             f"Página pública de YouTube {ABOUT_URL}, consultada el "
-            f"{now_bogota().strftime('%d de %B de %Y, %H:%M')} (hora de Bogotá)."
+            f"{consulted_on()} (hora de Bogotá)."
         )
-        # Spanish month names: %B may be English depending on locale; replace if needed
-        months = {
-            "January": "enero",
-            "February": "febrero",
-            "March": "marzo",
-            "April": "abril",
-            "May": "mayo",
-            "June": "junio",
-            "July": "julio",
-            "August": "agosto",
-            "September": "septiembre",
-            "October": "octubre",
-            "November": "noviembre",
-            "December": "diciembre",
-        }
-        src = channel_update["source"]
-        for en, es in months.items():
-            src = src.replace(en, es)
-        channel_update["source"] = src
+    else:
+        log("No se pudieron leer las cifras del canal de YouTube; se conservan los datos anteriores.")
+        warnings += 1
+        channel_update = dict(previous_channel) if previous_channel else {}
 
-        if same_payload(previous_channel, channel_update, {"updated", "statsAsOf", "source"}):
+    # --- Seguidores en X (no debe abortar la actualización de YouTube) ---
+    x_count, x_url = fetch_x_followers()
+    if x_count is not None and x_url:
+        apply_x_followers(channel_update, x_count, x_url)
+        if not youtube_ok:
+            channel_update["updated"] = updated_iso
+        log(f"Seguidores en X: {format_es_int(x_count)} (fuente: {x_url}).")
+    else:
+        log("No se pudieron leer los seguidores de X; se conserva el valor anterior.")
+        # Nunca escribir 0 ni borrar un recuento previo.
+        warnings += 1
+
+    if channel_update and (youtube_ok or x_count is not None):
+        ignored = {"updated", "statsAsOf", "source", "xSource"}
+        if same_payload(previous_channel, channel_update, ignored):
             log("Cifras del canal sin cambios. Se conserva el archivo.")
         else:
             dump_json(CHANNEL_PATH, channel_update)
             wrote = True
             log(f"Actualizadas las cifras del canal en {CHANNEL_PATH}.")
-    else:
-        log("No se pudieron leer las cifras del canal; se conservan los datos anteriores.")
-        warnings += 1
-        # still stamp updated only if we already have channel data? No — don't rewrite
-        # just to bump a timestamp when we failed to fetch.
 
     if wrote:
         log("Hay cambios en los datos.")

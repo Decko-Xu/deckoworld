@@ -1,16 +1,16 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-12T13:39:02-05:00",
-  "updated": "2026-11-12T13:39:02-05:00",
+  "fetchedAt": "2026-11-13T06:18:42-05:00",
+  "updated": "2026-11-13T06:18:42-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
       "id": "-Rv6tb9pCys",
-      "title": "¿Qué clase de mamá es ella? Dejó a los niños y se fue de tragos 🐶🍹 #shorts",
+      "title": "ESCÁNDALO ¿Qué clase de mamá es ella? Dejó a los niños y se fue de tragos 🐶🍹 #shorts",
       "url": "https://www.youtube.com/shorts/-Rv6tb9pCys",
       "published": "2026-11-12T18:33:13+00:00",
       "thumb": "https://i2.ytimg.com/vi/-Rv6tb9pCys/hqdefault.jpg",
-      "views": 18,
+      "views": 879,
       "isShort": true,
       "description": "Mientras los niños están en la casa, ella sale a pasear a la piscina. Tragos, sol y cero responsabilidades 🐾🍹"
     },
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
       "published": "2026-11-11T22:19:26+00:00",
       "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
-      "views": 53,
+      "views": 169,
       "isShort": false,
       "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
       "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
@@ -32,7 +32,7 @@
       "url": "https://www.youtube.com/shorts/pF8SS874vmA",
       "published": "2026-11-11T15:00:05+00:00",
       "thumb": "https://i1.ytimg.com/vi/pF8SS874vmA/hqdefault.jpg",
-      "views": 1023,
+      "views": 1027,
       "isShort": true,
       "description": "Peluches, música y cero responsabilidades: así se vive en la fiesta de los mantenidos 🎉🐾 ¿Trabajar? Eso es para otros. Aquí se vino a gozar."
     },
@@ -42,7 +42,7 @@
       "url": "https://www.youtube.com/shorts/l6Sw91LFiys",
       "published": "2026-11-11T00:15:10+00:00",
       "thumb": "https://i1.ytimg.com/vi/l6Sw91LFiys/hqdefault.jpg",
-      "views": 996,
+      "views": 1015,
       "isShort": true,
       "description": "No somos muchos, no somos pocos… pero estamos todos locos 🐾 Gracias a cada loco que llegó a este planeta. Los mantenidos no ayudaron en nada, pero igual celebran 😂"
     },
@@ -52,7 +52,7 @@
       "url": "https://www.youtube.com/shorts/nmZVNZfnejY",
       "published": "2026-11-10T22:45:20+00:00",
       "thumb": "https://i3.ytimg.com/vi/nmZVNZfnejY/hqdefault.jpg",
-      "views": 988,
+      "views": 1006,
       "isShort": true,
       "description": "Los mantenidos estaban pegados al celular como si pagaran el plan de datos 📱 Se acabó la fiesta: cobija, canción de cuna y a dormir. Mañana hay que seguir sin trabajar 😴🐾"
     },
@@ -62,7 +62,7 @@
       "url": "https://www.youtube.com/shorts/ztSa5IJKR1U",
       "published": "2026-11-10T19:00:29+00:00",
       "thumb": "https://i3.ytimg.com/vi/ztSa5IJKR1U/hqdefault.jpg",
-      "views": 1247,
+      "views": 1273,
       "isShort": true,
       "description": "En Estados Unidos ya se siente Acción de Gracias… y los pavos llegaron solitos, en manada y sin invitación. 🦃🍂 Uno hasta abrió la cola para lucirse. Valiente, sabiendo qué fecha viene."
     },
@@ -82,7 +82,7 @@
       "url": "https://www.youtube.com/shorts/zlam1XF9FT8",
       "published": "2026-11-09T20:57:20+00:00",
       "thumb": "https://i3.ytimg.com/vi/zlam1XF9FT8/hqdefault.jpg",
-      "views": 1040,
+      "views": 1041,
       "isShort": true,
       "description": "Los mantenidos no trabajan, no pagan arriendo… pero con esa carita, ¿quién les dice que no? 🐶🥹 Y la mamá pasando revista para ver quién se porta bien."
     },
@@ -92,7 +92,7 @@
       "url": "https://www.youtube.com/shorts/YR4hI8W8bDA",
       "published": "2026-11-09T13:27:41+00:00",
       "thumb": "https://i2.ytimg.com/vi/YR4hI8W8bDA/hqdefault.jpg",
-      "views": 6264,
+      "views": 6352,
       "isShort": true,
       "description": "Round 1 en la cobija 🥊🐶 Los mantenidos no trabajan, no pagan arriendo… pero eso sí, pelean como si fueran los dueños de la casa. Y el árbitro solo dice: \"no pasa nada, ya cálmate\" 😂"
     },
