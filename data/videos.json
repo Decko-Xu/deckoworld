@@ -1,16 +1,36 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-13T13:36:29-05:00",
-  "updated": "2026-11-13T13:36:29-05:00",
+  "fetchedAt": "2026-11-14T07:29:25-05:00",
+  "updated": "2026-11-14T07:29:25-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "_75Kdcsz8Mk",
+      "title": "Esto no es un hotel, señorita Caos, en la casa y ella ni se inmuta. #Shorts",
+      "url": "https://www.youtube.com/shorts/_75Kdcsz8Mk",
+      "published": "2026-11-14T12:24:54+00:00",
+      "thumb": "https://i4.ytimg.com/vi/_75Kdcsz8Mk/hqdefault.jpg",
+      "views": 3,
+      "isShort": true,
+      "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
+    },
+    {
+      "id": "hLkZzHhEbqA",
+      "title": "Mantenidos y tragones… Dios, ¿en qué me metí? 🐶🍖 #shorts",
+      "url": "https://www.youtube.com/shorts/hLkZzHhEbqA",
+      "published": "2026-11-13T20:21:43+00:00",
+      "thumb": "https://i1.ytimg.com/vi/hLkZzHhEbqA/hqdefault.jpg",
+      "views": 800,
+      "isShort": true,
+      "description": "Cuatro mantenidos, un plato y cero modales. Aquí no se trabaja, pero se come como si sí 🐾🍖"
+    },
     {
       "id": "-Rv6tb9pCys",
       "title": "ESCÁNDALO ¿Qué clase de mamá es ella? Dejó a los niños y se fue de tragos 🐶🍹 #shorts",
       "url": "https://www.youtube.com/shorts/-Rv6tb9pCys",
       "published": "2026-11-12T18:33:13+00:00",
       "thumb": "https://i2.ytimg.com/vi/-Rv6tb9pCys/hqdefault.jpg",
-      "views": 882,
+      "views": 976,
       "isShort": true,
       "description": "Mientras los niños están en la casa, ella sale a pasear a la piscina. Tragos, sol y cero responsabilidades 🐾🍹"
     },
@@ -20,7 +40,7 @@
       "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
       "published": "2026-11-11T22:19:26+00:00",
       "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
-      "views": 177,
+      "views": 279,
       "isShort": false,
       "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
       "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
@@ -32,7 +52,7 @@
       "url": "https://www.youtube.com/shorts/pF8SS874vmA",
       "published": "2026-11-11T15:00:05+00:00",
       "thumb": "https://i1.ytimg.com/vi/pF8SS874vmA/hqdefault.jpg",
-      "views": 1027,
+      "views": 1029,
       "isShort": true,
       "description": "Peluches, música y cero responsabilidades: así se vive en la fiesta de los mantenidos 🎉🐾 ¿Trabajar? Eso es para otros. Aquí se vino a gozar."
     },
@@ -42,7 +62,7 @@
       "url": "https://www.youtube.com/shorts/l6Sw91LFiys",
       "published": "2026-11-11T00:15:10+00:00",
       "thumb": "https://i1.ytimg.com/vi/l6Sw91LFiys/hqdefault.jpg",
-      "views": 1015,
+      "views": 1022,
       "isShort": true,
       "description": "No somos muchos, no somos pocos… pero estamos todos locos 🐾 Gracias a cada loco que llegó a este planeta. Los mantenidos no ayudaron en nada, pero igual celebran 😂"
     },
@@ -52,7 +72,7 @@
       "url": "https://www.youtube.com/shorts/nmZVNZfnejY",
       "published": "2026-11-10T22:45:20+00:00",
       "thumb": "https://i3.ytimg.com/vi/nmZVNZfnejY/hqdefault.jpg",
-      "views": 1006,
+      "views": 1007,
       "isShort": true,
       "description": "Los mantenidos estaban pegados al celular como si pagaran el plan de datos 📱 Se acabó la fiesta: cobija, canción de cuna y a dormir. Mañana hay que seguir sin trabajar 😴🐾"
     },
@@ -62,7 +82,7 @@
       "url": "https://www.youtube.com/shorts/ztSa5IJKR1U",
       "published": "2026-11-10T19:00:29+00:00",
       "thumb": "https://i3.ytimg.com/vi/ztSa5IJKR1U/hqdefault.jpg",
-      "views": 1282,
+      "views": 1298,
       "isShort": true,
       "description": "En Estados Unidos ya se siente Acción de Gracias… y los pavos llegaron solitos, en manada y sin invitación. 🦃🍂 Uno hasta abrió la cola para lucirse. Valiente, sabiendo qué fecha viene."
     },
@@ -72,7 +92,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 19598,
+      "views": 19642,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     },
@@ -82,7 +102,7 @@
       "url": "https://www.youtube.com/shorts/zlam1XF9FT8",
       "published": "2026-11-09T20:57:20+00:00",
       "thumb": "https://i3.ytimg.com/vi/zlam1XF9FT8/hqdefault.jpg",
-      "views": 1041,
+      "views": 1043,
       "isShort": true,
       "description": "Los mantenidos no trabajan, no pagan arriendo… pero con esa carita, ¿quién les dice que no? 🐶🥹 Y la mamá pasando revista para ver quién se porta bien."
     },
@@ -92,7 +112,7 @@
       "url": "https://www.youtube.com/shorts/YR4hI8W8bDA",
       "published": "2026-11-09T13:27:41+00:00",
       "thumb": "https://i2.ytimg.com/vi/YR4hI8W8bDA/hqdefault.jpg",
-      "views": 6360,
+      "views": 6480,
       "isShort": true,
       "description": "Round 1 en la cobija 🥊🐶 Los mantenidos no trabajan, no pagan arriendo… pero eso sí, pelean como si fueran los dueños de la casa. Y el árbitro solo dice: \"no pasa nada, ya cálmate\" 😂"
     },
@@ -102,7 +122,7 @@
       "url": "https://www.youtube.com/shorts/yNcAn36I85Y",
       "published": "2026-11-08T23:00:06+00:00",
       "thumb": "https://i2.ytimg.com/vi/yNcAn36I85Y/hqdefault.jpg",
-      "views": 1027,
+      "views": 1029,
       "isShort": true,
       "description": "Otro mantenido que piensa pagar el arriendo con ternura. Y con esa carita… difícil cobrarle. 🐶🥹"
     },
@@ -112,7 +132,7 @@
       "url": "https://www.youtube.com/watch?v=_IRBH4o1Egs",
       "published": "2026-11-08T18:22:31+00:00",
       "thumb": "https://i.ytimg.com/vi/_IRBH4o1Egs/maxresdefault.jpg",
-      "views": 42,
+      "views": 43,
       "isShort": false,
       "description": "Olas rompiendo en la orilla, el sol bajando y nada más. 🌊🌅 Ponlo de fondo para descansar, leer, trabajar o simplemente desconectarte un rato.",
       "thumbFallback": "https://i.ytimg.com/vi/_IRBH4o1Egs/hqdefault.jpg"
@@ -136,26 +156,6 @@
       "views": 25,
       "isShort": true,
       "description": "Íbamos por la carretera y el cielo decidió dar show: rojo, naranja y rosado de lado a lado. 🌅"
-    },
-    {
-      "id": "ZuWAcs9MZ7M",
-      "title": "La noche se puso en modo ALOHA 🌺✨ #Shorts",
-      "url": "https://www.youtube.com/shorts/ZuWAcs9MZ7M",
-      "published": "2026-11-07T20:08:34+00:00",
-      "thumb": "https://i3.ytimg.com/vi/ZuWAcs9MZ7M/hqdefault.jpg",
-      "views": 227,
-      "isShort": true,
-      "description": "Un paseo entre luces rojas y verdes, árboles iluminados y música de estilo hawaiano. 🌺✨"
-    },
-    {
-      "id": "Dfxgithvi9c",
-      "title": "La mantenida descubrió por qué está gorda 😂🧴 #shorts",
-      "url": "https://www.youtube.com/shorts/Dfxgithvi9c",
-      "published": "2026-11-07T19:04:19+00:00",
-      "thumb": "https://i1.ytimg.com/vi/Dfxgithvi9c/hqdefault.jpg",
-      "views": 1135,
-      "isShort": true,
-      "description": "Misterio resuelto: la culpa no es de la comida fina, es del champú \"para dar cuerpo y volumen\" 🧴😂 La solución es épica: mañana baño con lavaplatos, que disuelve hasta la grasa más difícil."
     }
   ]
 }
