@@ -1,16 +1,26 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-15T07:31:07-05:00",
-  "updated": "2026-11-15T07:31:07-05:00",
+  "fetchedAt": "2026-11-15T13:26:25-05:00",
+  "updated": "2026-11-15T13:26:25-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "N85nwC136Ho",
+      "title": "Gracias y que Dios los bendiga #Shorts",
+      "url": "https://www.youtube.com/shorts/N85nwC136Ho",
+      "published": "2026-11-15T16:19:27+00:00",
+      "thumb": "https://i3.ytimg.com/vi/N85nwC136Ho/hqdefault.jpg",
+      "views": 781,
+      "isShort": true,
+      "description": "Los mantenidos y la fiestera les dan las gracias, y que Dios los bendiga. Gracias por estar aquí, de verdad."
+    },
     {
       "id": "102Le6jvg3U",
       "title": "Buscando lo que no se le ha perdido. #Shorts",
       "url": "https://www.youtube.com/shorts/102Le6jvg3U",
       "published": "2026-11-14T20:54:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/102Le6jvg3U/hqdefault.jpg",
-      "views": 877,
+      "views": 895,
       "isShort": true,
       "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
     },
@@ -20,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/_75Kdcsz8Mk",
       "published": "2026-11-14T12:24:54+00:00",
       "thumb": "https://i4.ytimg.com/vi/_75Kdcsz8Mk/hqdefault.jpg",
-      "views": 893,
+      "views": 894,
       "isShort": true,
       "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
     },
@@ -30,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/hLkZzHhEbqA",
       "published": "2026-11-13T20:21:43+00:00",
       "thumb": "https://i1.ytimg.com/vi/hLkZzHhEbqA/hqdefault.jpg",
-      "views": 805,
+      "views": 1006,
       "isShort": true,
       "description": "Cuatro mantenidos, un plato y cero modales. Aquí no se trabaja, pero se come como si sí 🐾🍖"
     },
@@ -50,7 +60,7 @@
       "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
       "published": "2026-11-11T22:19:26+00:00",
       "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
-      "views": 293,
+      "views": 294,
       "isShort": false,
       "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
       "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
@@ -92,7 +102,7 @@
       "url": "https://www.youtube.com/shorts/ztSa5IJKR1U",
       "published": "2026-11-10T19:00:29+00:00",
       "thumb": "https://i3.ytimg.com/vi/ztSa5IJKR1U/hqdefault.jpg",
-      "views": 1304,
+      "views": 1316,
       "isShort": true,
       "description": "En Estados Unidos ya se siente Acción de Gracias… y los pavos llegaron solitos, en manada y sin invitación. 🦃🍂 Uno hasta abrió la cola para lucirse. Valiente, sabiendo qué fecha viene."
     },
@@ -102,7 +112,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 19592,
+      "views": 19594,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     },
@@ -122,7 +132,7 @@
       "url": "https://www.youtube.com/shorts/YR4hI8W8bDA",
       "published": "2026-11-09T13:27:41+00:00",
       "thumb": "https://i2.ytimg.com/vi/YR4hI8W8bDA/hqdefault.jpg",
-      "views": 6553,
+      "views": 6559,
       "isShort": true,
       "description": "Round 1 en la cobija 🥊🐶 Los mantenidos no trabajan, no pagan arriendo… pero eso sí, pelean como si fueran los dueños de la casa. Y el árbitro solo dice: \"no pasa nada, ya cálmate\" 😂"
     },
@@ -132,7 +142,7 @@
       "url": "https://www.youtube.com/shorts/yNcAn36I85Y",
       "published": "2026-11-08T23:00:06+00:00",
       "thumb": "https://i2.ytimg.com/vi/yNcAn36I85Y/hqdefault.jpg",
-      "views": 1032,
+      "views": 1033,
       "isShort": true,
       "description": "Otro mantenido que piensa pagar el arriendo con ternura. Y con esa carita… difícil cobrarle. 🐶🥹"
     },
@@ -142,20 +152,10 @@
       "url": "https://www.youtube.com/watch?v=_IRBH4o1Egs",
       "published": "2026-11-08T18:22:31+00:00",
       "thumb": "https://i.ytimg.com/vi/_IRBH4o1Egs/maxresdefault.jpg",
-      "views": 46,
+      "views": 47,
       "isShort": false,
       "description": "Olas rompiendo en la orilla, el sol bajando y nada más. 🌊🌅 Ponlo de fondo para descansar, leer, trabajar o simplemente desconectarte un rato.",
       "thumbFallback": "https://i.ytimg.com/vi/_IRBH4o1Egs/hqdefault.jpg"
-    },
-    {
-      "id": "PlXciCTn1X4",
-      "title": "Los mantenidos cumplen 1  mes.🐶🎂 ¿Cuál es tu favorito? #Shorts #dog",
-      "url": "https://www.youtube.com/shorts/PlXciCTn1X4",
-      "published": "2026-11-08T17:54:53+00:00",
-      "thumb": "https://i1.ytimg.com/vi/PlXciCTn1X4/hqdefault.jpg",
-      "views": 1079,
-      "isShort": true,
-      "description": "Cuatro bebés, cuatro personalidades y cero ganas de trabajar. 🐶🍼 ¿El 1, el 2, el 3 o el 4? Dime en los comentarios cuál te robarías."
     }
   ]
 }
