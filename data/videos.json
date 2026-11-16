@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-16T09:43:28-05:00",
-  "updated": "2026-11-16T09:43:28-05:00",
+  "fetchedAt": "2026-11-16T13:41:36-05:00",
+  "updated": "2026-11-16T13:41:36-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -50,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/-Rv6tb9pCys",
       "published": "2026-11-12T18:33:13+00:00",
       "thumb": "https://i2.ytimg.com/vi/-Rv6tb9pCys/hqdefault.jpg",
-      "views": 1068,
+      "views": 1072,
       "isShort": true,
       "description": "Mientras los niños están en la casa, ella sale a pasear a la piscina. Tragos, sol y cero responsabilidades 🐾🍹"
     },
@@ -102,7 +102,7 @@
       "url": "https://www.youtube.com/shorts/ztSa5IJKR1U",
       "published": "2026-11-10T19:00:29+00:00",
       "thumb": "https://i3.ytimg.com/vi/ztSa5IJKR1U/hqdefault.jpg",
-      "views": 1355,
+      "views": 1358,
       "isShort": true,
       "description": "En Estados Unidos ya se siente Acción de Gracias… y los pavos llegaron solitos, en manada y sin invitación. 🦃🍂 Uno hasta abrió la cola para lucirse. Valiente, sabiendo qué fecha viene."
     },
@@ -112,7 +112,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 19627,
+      "views": 19631,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     },
