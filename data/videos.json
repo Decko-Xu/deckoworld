@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-16T13:41:36-05:00",
-  "updated": "2026-11-16T13:41:36-05:00",
+  "fetchedAt": "2026-11-16T19:36:49-05:00",
+  "updated": "2026-11-16T19:36:49-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/_75Kdcsz8Mk",
       "published": "2026-11-14T12:24:54+00:00",
       "thumb": "https://i4.ytimg.com/vi/_75Kdcsz8Mk/hqdefault.jpg",
-      "views": 1007,
+      "views": 1008,
       "isShort": true,
       "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
     },
@@ -102,7 +102,7 @@
       "url": "https://www.youtube.com/shorts/ztSa5IJKR1U",
       "published": "2026-11-10T19:00:29+00:00",
       "thumb": "https://i3.ytimg.com/vi/ztSa5IJKR1U/hqdefault.jpg",
-      "views": 1358,
+      "views": 1372,
       "isShort": true,
       "description": "En Estados Unidos ya se siente Acción de Gracias… y los pavos llegaron solitos, en manada y sin invitación. 🦃🍂 Uno hasta abrió la cola para lucirse. Valiente, sabiendo qué fecha viene."
     },
@@ -132,7 +132,7 @@
       "url": "https://www.youtube.com/shorts/YR4hI8W8bDA",
       "published": "2026-11-09T13:27:41+00:00",
       "thumb": "https://i2.ytimg.com/vi/YR4hI8W8bDA/hqdefault.jpg",
-      "views": 6558,
+      "views": 6559,
       "isShort": true,
       "description": "Round 1 en la cobija 🥊🐶 Los mantenidos no trabajan, no pagan arriendo… pero eso sí, pelean como si fueran los dueños de la casa. Y el árbitro solo dice: \"no pasa nada, ya cálmate\" 😂"
     },
