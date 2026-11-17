@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-16T19:36:49-05:00",
-  "updated": "2026-11-16T19:36:49-05:00",
+  "fetchedAt": "2026-11-17T01:54:34-05:00",
+  "updated": "2026-11-17T01:54:34-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -60,7 +60,7 @@
       "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
       "published": "2026-11-11T22:19:26+00:00",
       "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
-      "views": 299,
+      "views": 302,
       "isShort": false,
       "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
       "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
@@ -102,7 +102,7 @@
       "url": "https://www.youtube.com/shorts/ztSa5IJKR1U",
       "published": "2026-11-10T19:00:29+00:00",
       "thumb": "https://i3.ytimg.com/vi/ztSa5IJKR1U/hqdefault.jpg",
-      "views": 1372,
+      "views": 1380,
       "isShort": true,
       "description": "En Estados Unidos ya se siente Acción de Gracias… y los pavos llegaron solitos, en manada y sin invitación. 🦃🍂 Uno hasta abrió la cola para lucirse. Valiente, sabiendo qué fecha viene."
     },
@@ -112,7 +112,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 19631,
+      "views": 19635,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     },
@@ -142,7 +142,7 @@
       "url": "https://www.youtube.com/shorts/yNcAn36I85Y",
       "published": "2026-11-08T23:00:06+00:00",
       "thumb": "https://i2.ytimg.com/vi/yNcAn36I85Y/hqdefault.jpg",
-      "views": 1033,
+      "views": 1034,
       "isShort": true,
       "description": "Otro mantenido que piensa pagar el arriendo con ternura. Y con esa carita… difícil cobrarle. 🐶🥹"
     },
