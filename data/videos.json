@@ -1,16 +1,26 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-17T13:44:17-05:00",
-  "updated": "2026-11-17T13:44:17-05:00",
+  "fetchedAt": "2026-11-17T19:44:20-05:00",
+  "updated": "2026-11-17T19:44:20-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "5DuTCJu8p1M",
+      "title": "Un homenaje a los que ya no están 🐾 #shorts #cats",
+      "url": "https://www.youtube.com/shorts/5DuTCJu8p1M",
+      "published": "2026-11-17T22:38:31+00:00",
+      "thumb": "https://i2.ytimg.com/vi/5DuTCJu8p1M/hqdefault.jpg",
+      "views": 105,
+      "isShort": true,
+      "description": "Para todos los gaticos que un día fueron los dueños de la casa y hoy vuelan alto. Se fueron, pero dejaron su mirada, su manía y sus huellas para siempre. Este video está hecho con IA en su honor."
+    },
     {
       "id": "KL_fxUldvQc",
       "title": "¿Qué son estas horas de llegar? #shorts #fiesta",
       "url": "https://www.youtube.com/shorts/KL_fxUldvQc",
       "published": "2026-11-17T18:35:38+00:00",
       "thumb": "https://i4.ytimg.com/vi/KL_fxUldvQc/hqdefault.jpg",
-      "views": 6,
+      "views": 143,
       "isShort": true,
       "description": ""
     },
@@ -20,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
       "published": "2026-11-17T15:24:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 668,
+      "views": 898,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     },
@@ -50,7 +60,7 @@
       "url": "https://www.youtube.com/shorts/_75Kdcsz8Mk",
       "published": "2026-11-14T12:24:54+00:00",
       "thumb": "https://i4.ytimg.com/vi/_75Kdcsz8Mk/hqdefault.jpg",
-      "views": 1009,
+      "views": 1010,
       "isShort": true,
       "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
     },
@@ -70,7 +80,7 @@
       "url": "https://www.youtube.com/shorts/-Rv6tb9pCys",
       "published": "2026-11-12T18:33:13+00:00",
       "thumb": "https://i2.ytimg.com/vi/-Rv6tb9pCys/hqdefault.jpg",
-      "views": 1072,
+      "views": 1073,
       "isShort": true,
       "description": "Mientras los niños están en la casa, ella sale a pasear a la piscina. Tragos, sol y cero responsabilidades 🐾🍹"
     },
@@ -80,7 +90,7 @@
       "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
       "published": "2026-11-11T22:19:26+00:00",
       "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
-      "views": 302,
+      "views": 303,
       "isShort": false,
       "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
       "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
@@ -132,7 +142,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 19643,
+      "views": 19645,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     },
@@ -145,16 +155,6 @@
       "views": 1043,
       "isShort": true,
       "description": "Los mantenidos no trabajan, no pagan arriendo… pero con esa carita, ¿quién les dice que no? 🐶🥹 Y la mamá pasando revista para ver quién se porta bien."
-    },
-    {
-      "id": "YR4hI8W8bDA",
-      "title": "Pelea de mantenidos 🥊🐶 Nadie paga arriendo pero todos pelean #Shorts",
-      "url": "https://www.youtube.com/shorts/YR4hI8W8bDA",
-      "published": "2026-11-09T13:27:41+00:00",
-      "thumb": "https://i2.ytimg.com/vi/YR4hI8W8bDA/hqdefault.jpg",
-      "views": 6551,
-      "isShort": true,
-      "description": "Round 1 en la cobija 🥊🐶 Los mantenidos no trabajan, no pagan arriendo… pero eso sí, pelean como si fueran los dueños de la casa. Y el árbitro solo dice: \"no pasa nada, ya cálmate\" 😂"
     }
   ]
 }
