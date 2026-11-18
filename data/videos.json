@@ -1,16 +1,26 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-18T07:50:50-05:00",
-  "updated": "2026-11-18T07:50:50-05:00",
+  "fetchedAt": "2026-11-18T13:40:00-05:00",
+  "updated": "2026-11-18T13:40:00-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "ysKWHuya_6g",
+      "title": "Hoy llego a los 1000. #short #1000subscriber",
+      "url": "https://www.youtube.com/shorts/ysKWHuya_6g",
+      "published": "2026-11-18T17:45:24+00:00",
+      "thumb": "https://i2.ytimg.com/vi/ysKWHuya_6g/hqdefault.jpg",
+      "views": 335,
+      "isShort": true,
+      "description": "Yo soñando con 19k suscriptores… y la realidad: 283 😢. No somos muchos, no somos pocos, pero estamos todos locos. Gracias a cada uno de los que llegaron al planeta: los mantenidos, la fiestera y los…"
+    },
     {
       "id": "5DuTCJu8p1M",
       "title": "Un homenaje a los que ya no están 🐾 #shorts #cats",
       "url": "https://www.youtube.com/shorts/5DuTCJu8p1M",
       "published": "2026-11-17T22:38:31+00:00",
       "thumb": "https://i2.ytimg.com/vi/5DuTCJu8p1M/hqdefault.jpg",
-      "views": 164,
+      "views": 166,
       "isShort": true,
       "description": "Para todos los gaticos que un día fueron los dueños de la casa y hoy vuelan alto. Se fueron, pero dejaron su mirada, su manía y sus huellas para siempre. Este video está hecho con IA en su honor."
     },
@@ -30,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
       "published": "2026-11-17T15:24:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 971,
+      "views": 986,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     },
@@ -40,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/N85nwC136Ho",
       "published": "2026-11-15T16:19:27+00:00",
       "thumb": "https://i3.ytimg.com/vi/N85nwC136Ho/hqdefault.jpg",
-      "views": 1121,
+      "views": 1122,
       "isShort": true,
       "description": "Los mantenidos y la fiestera les dan las gracias, y que Dios los bendiga. Gracias por estar aquí, de verdad."
     },
@@ -142,19 +152,9 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 19647,
+      "views": 19648,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
-    },
-    {
-      "id": "zlam1XF9FT8",
-      "title": "Con esta carita que tengo… me merezco un like 🐶🥹 #Shorts",
-      "url": "https://www.youtube.com/shorts/zlam1XF9FT8",
-      "published": "2026-11-09T20:57:20+00:00",
-      "thumb": "https://i3.ytimg.com/vi/zlam1XF9FT8/hqdefault.jpg",
-      "views": 1043,
-      "isShort": true,
-      "description": "Los mantenidos no trabajan, no pagan arriendo… pero con esa carita, ¿quién les dice que no? 🐶🥹 Y la mamá pasando revista para ver quién se porta bien."
     }
   ]
 }
