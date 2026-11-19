@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-18T13:40:00-05:00",
-  "updated": "2026-11-18T13:40:00-05:00",
+  "fetchedAt": "2026-11-18T19:46:29-05:00",
+  "updated": "2026-11-18T19:46:29-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -10,7 +10,7 @@
       "url": "https://www.youtube.com/shorts/ysKWHuya_6g",
       "published": "2026-11-18T17:45:24+00:00",
       "thumb": "https://i2.ytimg.com/vi/ysKWHuya_6g/hqdefault.jpg",
-      "views": 335,
+      "views": 789,
       "isShort": true,
       "description": "Yo soñando con 19k suscriptores… y la realidad: 283 😢. No somos muchos, no somos pocos, pero estamos todos locos. Gracias a cada uno de los que llegaron al planeta: los mantenidos, la fiestera y los…"
     },
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/shorts/5DuTCJu8p1M",
       "published": "2026-11-17T22:38:31+00:00",
       "thumb": "https://i2.ytimg.com/vi/5DuTCJu8p1M/hqdefault.jpg",
-      "views": 166,
+      "views": 167,
       "isShort": true,
       "description": "Para todos los gaticos que un día fueron los dueños de la casa y hoy vuelan alto. Se fueron, pero dejaron su mirada, su manía y sus huellas para siempre. Este video está hecho con IA en su honor."
     },
@@ -40,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
       "published": "2026-11-17T15:24:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 986,
+      "views": 995,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     },
@@ -50,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/N85nwC136Ho",
       "published": "2026-11-15T16:19:27+00:00",
       "thumb": "https://i3.ytimg.com/vi/N85nwC136Ho/hqdefault.jpg",
-      "views": 1122,
+      "views": 1124,
       "isShort": true,
       "description": "Los mantenidos y la fiestera les dan las gracias, y que Dios los bendiga. Gracias por estar aquí, de verdad."
     },
@@ -70,7 +70,7 @@
       "url": "https://www.youtube.com/shorts/_75Kdcsz8Mk",
       "published": "2026-11-14T12:24:54+00:00",
       "thumb": "https://i4.ytimg.com/vi/_75Kdcsz8Mk/hqdefault.jpg",
-      "views": 1006,
+      "views": 1008,
       "isShort": true,
       "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
     },
@@ -100,7 +100,7 @@
       "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
       "published": "2026-11-11T22:19:26+00:00",
       "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
-      "views": 309,
+      "views": 312,
       "isShort": false,
       "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
       "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
@@ -122,7 +122,7 @@
       "url": "https://www.youtube.com/shorts/l6Sw91LFiys",
       "published": "2026-11-11T00:15:10+00:00",
       "thumb": "https://i1.ytimg.com/vi/l6Sw91LFiys/hqdefault.jpg",
-      "views": 1032,
+      "views": 1036,
       "isShort": true,
       "description": "No somos muchos, no somos pocos… pero estamos todos locos 🐾 Gracias a cada loco que llegó a este planeta. Los mantenidos no ayudaron en nada, pero igual celebran 😂"
     },
@@ -152,7 +152,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 19648,
+      "views": 19649,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     }
