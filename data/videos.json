@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-19T01:53:06-05:00",
-  "updated": "2026-11-19T01:53:06-05:00",
+  "fetchedAt": "2026-11-19T07:52:33-05:00",
+  "updated": "2026-11-19T07:52:33-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -10,7 +10,7 @@
       "url": "https://www.youtube.com/shorts/ysKWHuya_6g",
       "published": "2026-11-18T17:45:24+00:00",
       "thumb": "https://i2.ytimg.com/vi/ysKWHuya_6g/hqdefault.jpg",
-      "views": 799,
+      "views": 800,
       "isShort": true,
       "description": "Yo soñando con 19k suscriptores… y la realidad: 283 😢. No somos muchos, no somos pocos, pero estamos todos locos. Gracias a cada uno de los que llegaron al planeta: los mantenidos, la fiestera y los…"
     },
@@ -40,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
       "published": "2026-11-17T15:24:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 1000,
+      "views": 1020,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     },
@@ -142,7 +142,7 @@
       "url": "https://www.youtube.com/shorts/ztSa5IJKR1U",
       "published": "2026-11-10T19:00:29+00:00",
       "thumb": "https://i3.ytimg.com/vi/ztSa5IJKR1U/hqdefault.jpg",
-      "views": 1382,
+      "views": 1390,
       "isShort": true,
       "description": "En Estados Unidos ya se siente Acción de Gracias… y los pavos llegaron solitos, en manada y sin invitación. 🦃🍂 Uno hasta abrió la cola para lucirse. Valiente, sabiendo qué fecha viene."
     },
@@ -152,7 +152,7 @@
       "url": "https://www.youtube.com/shorts/G4S9rnXYHWQ",
       "published": "2026-11-10T04:14:24+00:00",
       "thumb": "https://i4.ytimg.com/vi/G4S9rnXYHWQ/hqdefault.jpg",
-      "views": 19649,
+      "views": 19646,
       "isShort": true,
       "description": "Mide lo que mide una chancla, pero camina como si fuera el dueño de la casa. 🐾💥 Uno de los mantenidos en modo gigante: cada paso, un terremoto."
     }
