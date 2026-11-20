@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-19T19:37:48-05:00",
-  "updated": "2026-11-19T19:37:48-05:00",
+  "fetchedAt": "2026-11-20T01:53:06-05:00",
+  "updated": "2026-11-20T01:53:06-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -10,7 +10,7 @@
       "url": "https://www.youtube.com/shorts/i2FEdQYLD0o",
       "published": "2026-11-19T21:45:10+00:00",
       "thumb": "https://i2.ytimg.com/vi/i2FEdQYLD0o/hqdefault.jpg",
-      "views": 830,
+      "views": 1049,
       "isShort": true,
       "description": "Después de atacar el árbol de Navidad, Francesca no descansa: ahora entrena. Muerde, acecha y pega un salto de nivel ninja. El árbol no tiene ninguna oportunidad."
     },
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/shorts/8G4sqyLhdY4",
       "published": "2026-11-19T15:45:11+00:00",
       "thumb": "https://i1.ytimg.com/vi/8G4sqyLhdY4/hqdefault.jpg",
-      "views": 1001,
+      "views": 1006,
       "isShort": true,
       "description": "Pelea de mantenidos, round 2. La cremita quedó patas arriba y el dorado no la suelta ni rogándole. Aquí nadie trabaja, pero pelear sí saben."
     },
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/XKhhM2XL-14",
       "published": "2026-11-19T14:13:03+00:00",
       "thumb": "https://i1.ytimg.com/vi/XKhhM2XL-14/hqdefault.jpg",
-      "views": 978,
+      "views": 984,
       "isShort": true,
       "description": "Todavía no llega diciembre y Francesca ya le declaró la guerra al árbol de Navidad. Se agazapa, ataca y después te mira como si nada hubiera pasado. ¿Yo? No fui. MODO ATAQUE."
     },
@@ -40,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/ysKWHuya_6g",
       "published": "2026-11-18T17:45:24+00:00",
       "thumb": "https://i2.ytimg.com/vi/ysKWHuya_6g/hqdefault.jpg",
-      "views": 803,
+      "views": 807,
       "isShort": true,
       "description": "Yo soñando con 19k suscriptores… y la realidad: 283 😢. No somos muchos, no somos pocos, pero estamos todos locos. Gracias a cada uno de los que llegaron al planeta: los mantenidos, la fiestera y los…"
     },
@@ -60,7 +60,7 @@
       "url": "https://www.youtube.com/shorts/5DuTCJu8p1M",
       "published": "2026-11-17T22:38:31+00:00",
       "thumb": "https://i2.ytimg.com/vi/5DuTCJu8p1M/hqdefault.jpg",
-      "views": 169,
+      "views": 168,
       "isShort": true,
       "description": "Para todos los gaticos que un día fueron los dueños de la casa y hoy vuelan alto. Se fueron, pero dejaron su mirada, su manía y sus huellas para siempre. Este video está hecho con IA en su honor."
     },
@@ -70,7 +70,7 @@
       "url": "https://www.youtube.com/shorts/KL_fxUldvQc",
       "published": "2026-11-17T18:35:38+00:00",
       "thumb": "https://i4.ytimg.com/vi/KL_fxUldvQc/hqdefault.jpg",
-      "views": 154,
+      "views": 152,
       "isShort": true,
       "description": ""
     },
@@ -80,7 +80,7 @@
       "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
       "published": "2026-11-17T15:24:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 1077,
+      "views": 1110,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     },
@@ -90,7 +90,7 @@
       "url": "https://www.youtube.com/shorts/N85nwC136Ho",
       "published": "2026-11-15T16:19:27+00:00",
       "thumb": "https://i3.ytimg.com/vi/N85nwC136Ho/hqdefault.jpg",
-      "views": 1120,
+      "views": 1122,
       "isShort": true,
       "description": "Los mantenidos y la fiestera les dan las gracias, y que Dios los bendiga. Gracias por estar aquí, de verdad."
     },
@@ -140,7 +140,7 @@
       "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
       "published": "2026-11-11T22:19:26+00:00",
       "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
-      "views": 317,
+      "views": 319,
       "isShort": false,
       "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
       "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
