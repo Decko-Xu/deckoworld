@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-20T19:40:18-05:00",
-  "updated": "2026-11-20T19:40:18-05:00",
+  "fetchedAt": "2026-11-21T01:50:30-05:00",
+  "updated": "2026-11-21T01:50:30-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -10,7 +10,7 @@
       "url": "https://www.youtube.com/shorts/80z5EfOR16Q",
       "published": "2026-11-20T22:23:52+00:00",
       "thumb": "https://i1.ytimg.com/vi/80z5EfOR16Q/hqdefault.jpg",
-      "views": 553,
+      "views": 878,
       "isShort": true,
       "description": "Francesca lo tiene claro: no tiene trabajo, no paga arriendo, no aporta nada… y aun así está agotada."
     },
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/shorts/msfavqMZoEY",
       "published": "2026-11-20T16:45:17+00:00",
       "thumb": "https://i2.ytimg.com/vi/msfavqMZoEY/hqdefault.jpg",
-      "views": 1000,
+      "views": 1015,
       "isShort": true,
       "description": "Los mantenidos se agarraron otra vez: el cremita y el café, sobre la alfombra. El cremita no lo suelta. Pelea de mantenidos, round 3."
     },
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/i2FEdQYLD0o",
       "published": "2026-11-19T21:45:10+00:00",
       "thumb": "https://i2.ytimg.com/vi/i2FEdQYLD0o/hqdefault.jpg",
-      "views": 1056,
+      "views": 1057,
       "isShort": true,
       "description": "Después de atacar el árbol de Navidad, Francesca no descansa: ahora entrena. Muerde, acecha y pega un salto de nivel ninja. El árbol no tiene ninguna oportunidad."
     },
@@ -40,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/8G4sqyLhdY4",
       "published": "2026-11-19T15:45:11+00:00",
       "thumb": "https://i1.ytimg.com/vi/8G4sqyLhdY4/hqdefault.jpg",
-      "views": 1012,
+      "views": 1014,
       "isShort": true,
       "description": "Pelea de mantenidos, round 2. La cremita quedó patas arriba y el dorado no la suelta ni rogándole. Aquí nadie trabaja, pero pelear sí saben."
     },
@@ -70,7 +70,7 @@
       "url": "https://www.youtube.com/shorts/ZNbu26R0klU",
       "published": "2026-11-18T13:43:53+00:00",
       "thumb": "https://i3.ytimg.com/vi/ZNbu26R0klU/hqdefault.jpg",
-      "views": 931,
+      "views": 932,
       "isShort": true,
       "description": "Hoy amanecieron con ganas de callejear como la mamá, y esto no es un hotel. Uno en la reja planeando la fuga, otro en la pantufla, y los demás en el cojín como si pagaran arriendo."
     },
@@ -80,7 +80,7 @@
       "url": "https://www.youtube.com/shorts/5DuTCJu8p1M",
       "published": "2026-11-17T22:38:31+00:00",
       "thumb": "https://i2.ytimg.com/vi/5DuTCJu8p1M/hqdefault.jpg",
-      "views": 168,
+      "views": 169,
       "isShort": true,
       "description": "Para todos los gaticos que un día fueron los dueños de la casa y hoy vuelan alto. Se fueron, pero dejaron su mirada, su manía y sus huellas para siempre. Este video está hecho con IA en su honor."
     },
@@ -90,7 +90,7 @@
       "url": "https://www.youtube.com/shorts/KL_fxUldvQc",
       "published": "2026-11-17T18:35:38+00:00",
       "thumb": "https://i4.ytimg.com/vi/KL_fxUldvQc/hqdefault.jpg",
-      "views": 152,
+      "views": 153,
       "isShort": true,
       "description": ""
     },
@@ -100,7 +100,7 @@
       "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
       "published": "2026-11-17T15:24:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 1133,
+      "views": 1152,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     },
@@ -110,7 +110,7 @@
       "url": "https://www.youtube.com/shorts/N85nwC136Ho",
       "published": "2026-11-15T16:19:27+00:00",
       "thumb": "https://i3.ytimg.com/vi/N85nwC136Ho/hqdefault.jpg",
-      "views": 1122,
+      "views": 1125,
       "isShort": true,
       "description": "Los mantenidos y la fiestera les dan las gracias, y que Dios los bendiga. Gracias por estar aquí, de verdad."
     },
@@ -120,7 +120,7 @@
       "url": "https://www.youtube.com/shorts/102Le6jvg3U",
       "published": "2026-11-14T20:54:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/102Le6jvg3U/hqdefault.jpg",
-      "views": 1006,
+      "views": 1008,
       "isShort": true,
       "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
     },
@@ -130,7 +130,7 @@
       "url": "https://www.youtube.com/shorts/_75Kdcsz8Mk",
       "published": "2026-11-14T12:24:54+00:00",
       "thumb": "https://i4.ytimg.com/vi/_75Kdcsz8Mk/hqdefault.jpg",
-      "views": 1010,
+      "views": 1011,
       "isShort": true,
       "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
     },
@@ -140,7 +140,7 @@
       "url": "https://www.youtube.com/shorts/hLkZzHhEbqA",
       "published": "2026-11-13T20:21:43+00:00",
       "thumb": "https://i1.ytimg.com/vi/hLkZzHhEbqA/hqdefault.jpg",
-      "views": 1005,
+      "views": 1006,
       "isShort": true,
       "description": "Cuatro mantenidos, un plato y cero modales. Aquí no se trabaja, pero se come como si sí 🐾🍖"
     },
@@ -150,7 +150,7 @@
       "url": "https://www.youtube.com/shorts/-Rv6tb9pCys",
       "published": "2026-11-12T18:33:13+00:00",
       "thumb": "https://i2.ytimg.com/vi/-Rv6tb9pCys/hqdefault.jpg",
-      "views": 1078,
+      "views": 1079,
       "isShort": true,
       "description": "Mientras los niños están en la casa, ella sale a pasear a la piscina. Tragos, sol y cero responsabilidades 🐾🍹"
     }
