@@ -1,16 +1,26 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-20T13:46:01-05:00",
-  "updated": "2026-11-20T13:46:01-05:00",
+  "fetchedAt": "2026-11-20T19:40:18-05:00",
+  "updated": "2026-11-20T19:40:18-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "80z5EfOR16Q",
+      "title": "Soy una gata y estoy agotada 😮‍💨 #Shorts",
+      "url": "https://www.youtube.com/shorts/80z5EfOR16Q",
+      "published": "2026-11-20T22:23:52+00:00",
+      "thumb": "https://i1.ytimg.com/vi/80z5EfOR16Q/hqdefault.jpg",
+      "views": 553,
+      "isShort": true,
+      "description": "Francesca lo tiene claro: no tiene trabajo, no paga arriendo, no aporta nada… y aun así está agotada."
+    },
     {
       "id": "msfavqMZoEY",
       "title": "Pelea de mantenidos, round 3 🥊 #Shorts",
       "url": "https://www.youtube.com/shorts/msfavqMZoEY",
       "published": "2026-11-20T16:45:17+00:00",
       "thumb": "https://i2.ytimg.com/vi/msfavqMZoEY/hqdefault.jpg",
-      "views": 575,
+      "views": 1000,
       "isShort": true,
       "description": "Los mantenidos se agarraron otra vez: el cremita y el café, sobre la alfombra. El cremita no lo suelta. Pelea de mantenidos, round 3."
     },
@@ -30,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/8G4sqyLhdY4",
       "published": "2026-11-19T15:45:11+00:00",
       "thumb": "https://i1.ytimg.com/vi/8G4sqyLhdY4/hqdefault.jpg",
-      "views": 1008,
+      "views": 1012,
       "isShort": true,
       "description": "Pelea de mantenidos, round 2. La cremita quedó patas arriba y el dorado no la suelta ni rogándole. Aquí nadie trabaja, pero pelear sí saben."
     },
@@ -50,7 +60,7 @@
       "url": "https://www.youtube.com/shorts/ysKWHuya_6g",
       "published": "2026-11-18T17:45:24+00:00",
       "thumb": "https://i2.ytimg.com/vi/ysKWHuya_6g/hqdefault.jpg",
-      "views": 991,
+      "views": 989,
       "isShort": true,
       "description": "Yo soñando con 19k suscriptores… y la realidad: 283 😢. No somos muchos, no somos pocos, pero estamos todos locos. Gracias a cada uno de los que llegaron al planeta: los mantenidos, la fiestera y los…"
     },
@@ -90,7 +100,7 @@
       "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
       "published": "2026-11-17T15:24:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 1122,
+      "views": 1133,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     },
@@ -130,7 +140,7 @@
       "url": "https://www.youtube.com/shorts/hLkZzHhEbqA",
       "published": "2026-11-13T20:21:43+00:00",
       "thumb": "https://i1.ytimg.com/vi/hLkZzHhEbqA/hqdefault.jpg",
-      "views": 1004,
+      "views": 1005,
       "isShort": true,
       "description": "Cuatro mantenidos, un plato y cero modales. Aquí no se trabaja, pero se come como si sí 🐾🍖"
     },
@@ -143,18 +153,6 @@
       "views": 1078,
       "isShort": true,
       "description": "Mientras los niños están en la casa, ella sale a pasear a la piscina. Tragos, sol y cero responsabilidades 🐾🍹"
-    },
-    {
-      "id": "eOTGUc2vZ_I",
-      "title": "Los mantenidos: 6 minutos sin trabajar 🐶😴 | Recopilación de El planeta de Decko",
-      "url": "https://www.youtube.com/watch?v=eOTGUc2vZ_I",
-      "published": "2026-11-11T22:19:26+00:00",
-      "thumb": "https://i.ytimg.com/vi/eOTGUc2vZ_I/maxresdefault.jpg",
-      "views": 319,
-      "isShort": false,
-      "description": "Seis minutos completos de los mantenidos haciendo lo que mejor saben hacer: absolutamente nada 🐾 Peleas sin motivo, huelgas sin pliego de peticiones, siestas de campeonato… y de bonus, la mantenida…",
-      "thumbFallback": "https://i.ytimg.com/vi/eOTGUc2vZ_I/hqdefault.jpg",
-      "featured": true
     }
   ]
 }
