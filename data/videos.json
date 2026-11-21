@@ -1,16 +1,36 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-21T07:37:01-05:00",
-  "updated": "2026-11-21T07:37:01-05:00",
+  "fetchedAt": "2026-11-21T13:29:02-05:00",
+  "updated": "2026-11-21T13:29:02-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "MDJKeldTEnY",
+      "title": "Francesca en modo centinela 🎄 #shorts",
+      "url": "https://www.youtube.com/shorts/MDJKeldTEnY",
+      "published": "2026-11-21T16:45:32+00:00",
+      "thumb": "https://i2.ytimg.com/vi/MDJKeldTEnY/hqdefault.jpg",
+      "views": 4,
+      "isShort": true,
+      "description": "Francesca activó el modo centinela. Desde su cueva no deja que nadie se acerque."
+    },
+    {
+      "id": "jLpunahT8PM",
+      "title": "Francesca vigilando el árbol de Navidad 🎄 #Shorts",
+      "url": "https://www.youtube.com/shorts/jLpunahT8PM",
+      "published": "2026-11-21T16:00:10+00:00",
+      "thumb": "https://i3.ytimg.com/vi/jLpunahT8PM/hqdefault.jpg",
+      "views": 666,
+      "isShort": true,
+      "description": "Francesca se plantó de guardia: llegó el árbol de Amazon y nadie lo toca. Hasta que se oyó un ruido..."
+    },
     {
       "id": "80z5EfOR16Q",
       "title": "Soy una gata y estoy agotada 😮‍💨 #Shorts",
       "url": "https://www.youtube.com/shorts/80z5EfOR16Q",
       "published": "2026-11-20T22:23:52+00:00",
       "thumb": "https://i1.ytimg.com/vi/80z5EfOR16Q/hqdefault.jpg",
-      "views": 878,
+      "views": 872,
       "isShort": true,
       "description": "Francesca lo tiene claro: no tiene trabajo, no paga arriendo, no aporta nada… y aun así está agotada."
     },
@@ -20,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/msfavqMZoEY",
       "published": "2026-11-20T16:45:17+00:00",
       "thumb": "https://i2.ytimg.com/vi/msfavqMZoEY/hqdefault.jpg",
-      "views": 1039,
+      "views": 1056,
       "isShort": true,
       "description": "Los mantenidos se agarraron otra vez: el cremita y el café, sobre la alfombra. El cremita no lo suelta. Pelea de mantenidos, round 3."
     },
@@ -30,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/i2FEdQYLD0o",
       "published": "2026-11-19T21:45:10+00:00",
       "thumb": "https://i2.ytimg.com/vi/i2FEdQYLD0o/hqdefault.jpg",
-      "views": 1057,
+      "views": 1056,
       "isShort": true,
       "description": "Después de atacar el árbol de Navidad, Francesca no descansa: ahora entrena. Muerde, acecha y pega un salto de nivel ninja. El árbol no tiene ninguna oportunidad."
     },
@@ -50,7 +70,7 @@
       "url": "https://www.youtube.com/shorts/XKhhM2XL-14",
       "published": "2026-11-19T14:13:03+00:00",
       "thumb": "https://i1.ytimg.com/vi/XKhhM2XL-14/hqdefault.jpg",
-      "views": 989,
+      "views": 986,
       "isShort": true,
       "description": "Todavía no llega diciembre y Francesca ya le declaró la guerra al árbol de Navidad. Se agazapa, ataca y después te mira como si nada hubiera pasado. ¿Yo? No fui. MODO ATAQUE."
     },
@@ -60,7 +80,7 @@
       "url": "https://www.youtube.com/shorts/ysKWHuya_6g",
       "published": "2026-11-18T17:45:24+00:00",
       "thumb": "https://i2.ytimg.com/vi/ysKWHuya_6g/hqdefault.jpg",
-      "views": 989,
+      "views": 974,
       "isShort": true,
       "description": "Yo soñando con 19k suscriptores… y la realidad: 283 😢. No somos muchos, no somos pocos, pero estamos todos locos. Gracias a cada uno de los que llegaron al planeta: los mantenidos, la fiestera y los…"
     },
@@ -70,7 +90,7 @@
       "url": "https://www.youtube.com/shorts/ZNbu26R0klU",
       "published": "2026-11-18T13:43:53+00:00",
       "thumb": "https://i3.ytimg.com/vi/ZNbu26R0klU/hqdefault.jpg",
-      "views": 932,
+      "views": 933,
       "isShort": true,
       "description": "Hoy amanecieron con ganas de callejear como la mamá, y esto no es un hotel. Uno en la reja planeando la fuga, otro en la pantufla, y los demás en el cojín como si pagaran arriendo."
     },
@@ -80,7 +100,7 @@
       "url": "https://www.youtube.com/shorts/5DuTCJu8p1M",
       "published": "2026-11-17T22:38:31+00:00",
       "thumb": "https://i2.ytimg.com/vi/5DuTCJu8p1M/hqdefault.jpg",
-      "views": 169,
+      "views": 170,
       "isShort": true,
       "description": "Para todos los gaticos que un día fueron los dueños de la casa y hoy vuelan alto. Se fueron, pero dejaron su mirada, su manía y sus huellas para siempre. Este video está hecho con IA en su honor."
     },
@@ -90,7 +110,7 @@
       "url": "https://www.youtube.com/shorts/KL_fxUldvQc",
       "published": "2026-11-17T18:35:38+00:00",
       "thumb": "https://i4.ytimg.com/vi/KL_fxUldvQc/hqdefault.jpg",
-      "views": 153,
+      "views": 154,
       "isShort": true,
       "description": ""
     },
@@ -100,7 +120,7 @@
       "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
       "published": "2026-11-17T15:24:59+00:00",
       "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 1156,
+      "views": 1165,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     },
@@ -133,26 +153,6 @@
       "views": 1011,
       "isShort": true,
       "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
-    },
-    {
-      "id": "hLkZzHhEbqA",
-      "title": "Mantenidos y tragones… Dios, ¿en qué me metí? 🐶🍖 #shorts",
-      "url": "https://www.youtube.com/shorts/hLkZzHhEbqA",
-      "published": "2026-11-13T20:21:43+00:00",
-      "thumb": "https://i1.ytimg.com/vi/hLkZzHhEbqA/hqdefault.jpg",
-      "views": 1006,
-      "isShort": true,
-      "description": "Cuatro mantenidos, un plato y cero modales. Aquí no se trabaja, pero se come como si sí 🐾🍖"
-    },
-    {
-      "id": "-Rv6tb9pCys",
-      "title": "ESCÁNDALO ¿Qué clase de mamá es ella? Dejó a los niños y se fue de tragos 🐶🍹 #shorts",
-      "url": "https://www.youtube.com/shorts/-Rv6tb9pCys",
-      "published": "2026-11-12T18:33:13+00:00",
-      "thumb": "https://i2.ytimg.com/vi/-Rv6tb9pCys/hqdefault.jpg",
-      "views": 1079,
-      "isShort": true,
-      "description": "Mientras los niños están en la casa, ella sale a pasear a la piscina. Tragos, sol y cero responsabilidades 🐾🍹"
     }
   ]
 }
