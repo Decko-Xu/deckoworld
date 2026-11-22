@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-21T19:31:54-05:00",
-  "updated": "2026-11-21T19:31:54-05:00",
+  "fetchedAt": "2026-11-22T01:48:10-05:00",
+  "updated": "2026-11-22T01:48:10-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -10,7 +10,7 @@
       "url": "https://www.youtube.com/shorts/0WH2t_-6z5g",
       "published": "2026-11-21T22:15:30+00:00",
       "thumb": "https://i1.ytimg.com/vi/0WH2t_-6z5g/hqdefault.jpg",
-      "views": 812,
+      "views": 987,
       "isShort": true,
       "description": "Los mantenidos se le echaron encima a la fiestera. Trabajo, ni de lejos."
     },
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/shorts/jLpunahT8PM",
       "published": "2026-11-21T16:00:10+00:00",
       "thumb": "https://i3.ytimg.com/vi/jLpunahT8PM/hqdefault.jpg",
-      "views": 806,
+      "views": 808,
       "isShort": true,
       "description": "Francesca se plantó de guardia: llegó el árbol de Amazon y nadie lo toca. Hasta que se oyó un ruido..."
     },
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/80z5EfOR16Q",
       "published": "2026-11-20T22:23:52+00:00",
       "thumb": "https://i1.ytimg.com/vi/80z5EfOR16Q/hqdefault.jpg",
-      "views": 872,
+      "views": 873,
       "isShort": true,
       "description": "Francesca lo tiene claro: no tiene trabajo, no paga arriendo, no aporta nada… y aun así está agotada."
     },
@@ -40,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/msfavqMZoEY",
       "published": "2026-11-20T16:45:17+00:00",
       "thumb": "https://i2.ytimg.com/vi/msfavqMZoEY/hqdefault.jpg",
-      "views": 1080,
+      "views": 1117,
       "isShort": true,
       "description": "Los mantenidos se agarraron otra vez: el cremita y el café, sobre la alfombra. El cremita no lo suelta. Pelea de mantenidos, round 3."
     },
@@ -50,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/i2FEdQYLD0o",
       "published": "2026-11-19T21:45:10+00:00",
       "thumb": "https://i2.ytimg.com/vi/i2FEdQYLD0o/hqdefault.jpg",
-      "views": 1057,
+      "views": 1058,
       "isShort": true,
       "description": "Después de atacar el árbol de Navidad, Francesca no descansa: ahora entrena. Muerde, acecha y pega un salto de nivel ninja. El árbol no tiene ninguna oportunidad."
     },
@@ -70,7 +70,7 @@
       "url": "https://www.youtube.com/shorts/XKhhM2XL-14",
       "published": "2026-11-19T14:13:03+00:00",
       "thumb": "https://i1.ytimg.com/vi/XKhhM2XL-14/hqdefault.jpg",
-      "views": 986,
+      "views": 987,
       "isShort": true,
       "description": "Todavía no llega diciembre y Francesca ya le declaró la guerra al árbol de Navidad. Se agazapa, ataca y después te mira como si nada hubiera pasado. ¿Yo? No fui. MODO ATAQUE."
     },
@@ -80,7 +80,7 @@
       "url": "https://www.youtube.com/shorts/ysKWHuya_6g",
       "published": "2026-11-18T17:45:24+00:00",
       "thumb": "https://i2.ytimg.com/vi/ysKWHuya_6g/hqdefault.jpg",
-      "views": 976,
+      "views": 977,
       "isShort": true,
       "description": "Yo soñando con 19k suscriptores… y la realidad: 283 😢. No somos muchos, no somos pocos, pero estamos todos locos. Gracias a cada uno de los que llegaron al planeta: los mantenidos, la fiestera y los…"
     },
