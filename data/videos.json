@@ -1,16 +1,26 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-24T07:54:10-05:00",
-  "updated": "2026-11-24T07:54:10-05:00",
+  "fetchedAt": "2026-11-24T13:43:30-05:00",
+  "updated": "2026-11-24T13:43:30-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "JHKpOuEwLJY",
+      "title": "Francesca en modo hibernación #shorts #cat",
+      "url": "https://www.youtube.com/shorts/JHKpOuEwLJY",
+      "published": "2026-11-24T15:50:43+00:00",
+      "thumb": "https://i3.ytimg.com/vi/JHKpOuEwLJY/hqdefault.jpg",
+      "views": 502,
+      "isShort": true,
+      "description": "Francesca acomoda la cobija para dormir todo el día. Trabajo, ni de lejos: modo hibernación."
+    },
     {
       "id": "raqWXyxCmsY",
       "title": "Prueba Cámara DJI Osmo Pocket 4.",
       "url": "https://www.youtube.com/shorts/raqWXyxCmsY",
       "published": "2026-11-23T20:55:02+00:00",
       "thumb": "https://i3.ytimg.com/vi/raqWXyxCmsY/hqdefault.jpg",
-      "views": 83,
+      "views": 84,
       "isShort": true,
       "description": "#dji"
     },
@@ -40,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/jLpunahT8PM",
       "published": "2026-11-21T16:00:10+00:00",
       "thumb": "https://i3.ytimg.com/vi/jLpunahT8PM/hqdefault.jpg",
-      "views": 1059,
+      "views": 1061,
       "isShort": true,
       "description": "Francesca se plantó de guardia: llegó el árbol de Amazon y nadie lo toca. Hasta que se oyó un ruido..."
     },
@@ -60,7 +70,7 @@
       "url": "https://www.youtube.com/shorts/msfavqMZoEY",
       "published": "2026-11-20T16:45:17+00:00",
       "thumb": "https://i2.ytimg.com/vi/msfavqMZoEY/hqdefault.jpg",
-      "views": 1427,
+      "views": 1436,
       "isShort": true,
       "description": "Los mantenidos se agarraron otra vez: el cremita y el café, sobre la alfombra. El cremita no lo suelta. Pelea de mantenidos, round 3."
     },
@@ -90,7 +100,7 @@
       "url": "https://www.youtube.com/shorts/XKhhM2XL-14",
       "published": "2026-11-19T14:13:03+00:00",
       "thumb": "https://i1.ytimg.com/vi/XKhhM2XL-14/hqdefault.jpg",
-      "views": 988,
+      "views": 989,
       "isShort": true,
       "description": "Todavía no llega diciembre y Francesca ya le declaró la guerra al árbol de Navidad. Se agazapa, ataca y después te mira como si nada hubiera pasado. ¿Yo? No fui. MODO ATAQUE."
     },
@@ -143,16 +153,6 @@
       "views": 1164,
       "isShort": true,
       "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
-    },
-    {
-      "id": "N85nwC136Ho",
-      "title": "Gracias y que Dios los bendiga #Shorts",
-      "url": "https://www.youtube.com/shorts/N85nwC136Ho",
-      "published": "2026-11-15T16:19:27+00:00",
-      "thumb": "https://i3.ytimg.com/vi/N85nwC136Ho/hqdefault.jpg",
-      "views": 1125,
-      "isShort": true,
-      "description": "Los mantenidos y la fiestera les dan las gracias, y que Dios los bendiga. Gracias por estar aquí, de verdad."
     }
   ]
 }
