@@ -1,16 +1,26 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-23T13:44:42-05:00",
-  "updated": "2026-11-23T13:44:42-05:00",
+  "fetchedAt": "2026-11-23T19:42:00-05:00",
+  "updated": "2026-11-23T19:42:00-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "raqWXyxCmsY",
+      "title": "Prueba Cámara DJI Osmo Pocket 4.",
+      "url": "https://www.youtube.com/shorts/raqWXyxCmsY",
+      "published": "2026-11-23T20:55:02+00:00",
+      "thumb": "https://i3.ytimg.com/vi/raqWXyxCmsY/hqdefault.jpg",
+      "views": 82,
+      "isShort": true,
+      "description": "#dji"
+    },
     {
       "id": "aYkQ8AjVNr8",
       "title": "Carita de yo no fui la fiestera. 🐶 #Shorts #mascotas #puppy #pets",
       "url": "https://www.youtube.com/shorts/aYkQ8AjVNr8",
       "published": "2026-11-22T21:37:57+00:00",
       "thumb": "https://i2.ytimg.com/vi/aYkQ8AjVNr8/hqdefault.jpg",
-      "views": 1009,
+      "views": 1018,
       "isShort": true,
       "description": "Los mantenidos se le echaron encima a la fiestera. Trabajo, ni de lejos."
     },
@@ -30,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/jLpunahT8PM",
       "published": "2026-11-21T16:00:10+00:00",
       "thumb": "https://i3.ytimg.com/vi/jLpunahT8PM/hqdefault.jpg",
-      "views": 1053,
+      "views": 1054,
       "isShort": true,
       "description": "Francesca se plantó de guardia: llegó el árbol de Amazon y nadie lo toca. Hasta que se oyó un ruido..."
     },
@@ -40,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/80z5EfOR16Q",
       "published": "2026-11-20T22:23:52+00:00",
       "thumb": "https://i1.ytimg.com/vi/80z5EfOR16Q/hqdefault.jpg",
-      "views": 988,
+      "views": 989,
       "isShort": true,
       "description": "Francesca lo tiene claro: no tiene trabajo, no paga arriendo, no aporta nada… y aun así está agotada."
     },
@@ -50,7 +60,7 @@
       "url": "https://www.youtube.com/shorts/msfavqMZoEY",
       "published": "2026-11-20T16:45:17+00:00",
       "thumb": "https://i2.ytimg.com/vi/msfavqMZoEY/hqdefault.jpg",
-      "views": 1376,
+      "views": 1394,
       "isShort": true,
       "description": "Los mantenidos se agarraron otra vez: el cremita y el café, sobre la alfombra. El cremita no lo suelta. Pelea de mantenidos, round 3."
     },
@@ -143,16 +153,6 @@
       "views": 1125,
       "isShort": true,
       "description": "Los mantenidos y la fiestera les dan las gracias, y que Dios los bendiga. Gracias por estar aquí, de verdad."
-    },
-    {
-      "id": "102Le6jvg3U",
-      "title": "Buscando lo que no se le ha perdido. #Shorts",
-      "url": "https://www.youtube.com/shorts/102Le6jvg3U",
-      "published": "2026-11-14T20:54:59+00:00",
-      "thumb": "https://i2.ytimg.com/vi/102Le6jvg3U/hqdefault.jpg",
-      "views": 1008,
-      "isShort": true,
-      "description": "Modo fiesta en la playa… y en la casa, caos total. Los mantenidos haciendo de las suyas, y la mantenida, como siempre, ni se inmuta. Así es esto: unos arman la fiesta, otros arman el desorden, y…"
     }
   ]
 }
