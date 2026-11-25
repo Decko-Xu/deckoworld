@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-24T19:44:48-05:00",
-  "updated": "2026-11-24T19:44:48-05:00",
+  "fetchedAt": "2026-11-25T01:54:38-05:00",
+  "updated": "2026-11-25T01:54:38-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -10,7 +10,7 @@
       "url": "https://www.youtube.com/shorts/-nRTktBbEso",
       "published": "2026-11-24T19:45:06+00:00",
       "thumb": "https://i2.ytimg.com/vi/-nRTktBbEso/hqdefault.jpg",
-      "views": 790,
+      "views": 795,
       "isShort": true,
       "description": "La familia de mantenidos, toda en el sofá. Siesta general: nadie trabaja, todos duermen."
     },
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/shorts/JHKpOuEwLJY",
       "published": "2026-11-24T15:50:43+00:00",
       "thumb": "https://i3.ytimg.com/vi/JHKpOuEwLJY/hqdefault.jpg",
-      "views": 725,
+      "views": 792,
       "isShort": true,
       "description": "Francesca acomoda la cobija para dormir todo el día. Trabajo, ni de lejos: modo hibernación."
     },
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/raqWXyxCmsY",
       "published": "2026-11-23T20:55:02+00:00",
       "thumb": "https://i3.ytimg.com/vi/raqWXyxCmsY/hqdefault.jpg",
-      "views": 84,
+      "views": 86,
       "isShort": true,
       "description": "#dji"
     },
@@ -60,7 +60,7 @@
       "url": "https://www.youtube.com/shorts/jLpunahT8PM",
       "published": "2026-11-21T16:00:10+00:00",
       "thumb": "https://i3.ytimg.com/vi/jLpunahT8PM/hqdefault.jpg",
-      "views": 1065,
+      "views": 1067,
       "isShort": true,
       "description": "Francesca se plantó de guardia: llegó el árbol de Amazon y nadie lo toca. Hasta que se oyó un ruido..."
     },
@@ -100,7 +100,7 @@
       "url": "https://www.youtube.com/shorts/8G4sqyLhdY4",
       "published": "2026-11-19T15:45:11+00:00",
       "thumb": "https://i1.ytimg.com/vi/8G4sqyLhdY4/hqdefault.jpg",
-      "views": 1004,
+      "views": 1003,
       "isShort": true,
       "description": "Pelea de mantenidos, round 2. La cremita quedó patas arriba y el dorado no la suelta ni rogándole. Aquí nadie trabaja, pero pelear sí saben."
     },
@@ -150,7 +150,7 @@
       "url": "https://www.youtube.com/shorts/KL_fxUldvQc",
       "published": "2026-11-17T18:35:38+00:00",
       "thumb": "https://i4.ytimg.com/vi/KL_fxUldvQc/hqdefault.jpg",
-      "views": 155,
+      "views": 156,
       "isShort": true,
       "description": ""
     }
