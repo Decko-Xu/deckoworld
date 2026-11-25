@@ -1,16 +1,36 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-25T01:54:38-05:00",
-  "updated": "2026-11-25T01:54:38-05:00",
+  "fetchedAt": "2026-11-25T13:37:55-05:00",
+  "updated": "2026-11-25T13:37:55-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "SrO9FfAVnn4",
+      "title": "Ya no lo aguanto más... tengo hambre 🐶 #shorts #dogs",
+      "url": "https://www.youtube.com/shorts/SrO9FfAVnn4",
+      "published": "2026-11-25T17:00:25+00:00",
+      "thumb": "https://i4.ytimg.com/vi/SrO9FfAVnn4/hqdefault.jpg",
+      "views": 650,
+      "isShort": true,
+      "description": "Muy temprano para confesarlo, pero los mantenidos ya no aguantan más: tienen hambre. La fiestera come, los cuatro arrasan con el plato... y no queda ni una migaja."
+    },
+    {
+      "id": "RXayjNZe-iM",
+      "title": "Soy el más bonito, dice él 🐶 #shorts #dogs #doggielife",
+      "url": "https://www.youtube.com/shorts/RXayjNZe-iM",
+      "published": "2026-11-25T15:11:21+00:00",
+      "thumb": "https://i3.ytimg.com/vi/RXayjNZe-iM/hqdefault.jpg",
+      "views": 685,
+      "isShort": true,
+      "description": "Según él, es el más bonito de los mantenidos. La fiestera está al lado, pero la cámara es toda suya."
+    },
     {
       "id": "-nRTktBbEso",
       "title": "La familia mantenida, en siesta #Shorts",
       "url": "https://www.youtube.com/shorts/-nRTktBbEso",
       "published": "2026-11-24T19:45:06+00:00",
       "thumb": "https://i2.ytimg.com/vi/-nRTktBbEso/hqdefault.jpg",
-      "views": 795,
+      "views": 793,
       "isShort": true,
       "description": "La familia de mantenidos, toda en el sofá. Siesta general: nadie trabaja, todos duermen."
     },
@@ -20,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/JHKpOuEwLJY",
       "published": "2026-11-24T15:50:43+00:00",
       "thumb": "https://i3.ytimg.com/vi/JHKpOuEwLJY/hqdefault.jpg",
-      "views": 792,
+      "views": 793,
       "isShort": true,
       "description": "Francesca acomoda la cobija para dormir todo el día. Trabajo, ni de lejos: modo hibernación."
     },
@@ -40,7 +60,7 @@
       "url": "https://www.youtube.com/shorts/aYkQ8AjVNr8",
       "published": "2026-11-22T21:37:57+00:00",
       "thumb": "https://i2.ytimg.com/vi/aYkQ8AjVNr8/hqdefault.jpg",
-      "views": 1022,
+      "views": 1024,
       "isShort": true,
       "description": "Los mantenidos se le echaron encima a la fiestera. Trabajo, ni de lejos."
     },
@@ -133,26 +153,6 @@
       "views": 934,
       "isShort": true,
       "description": "Hoy amanecieron con ganas de callejear como la mamá, y esto no es un hotel. Uno en la reja planeando la fuga, otro en la pantufla, y los demás en el cojín como si pagaran arriendo."
-    },
-    {
-      "id": "5DuTCJu8p1M",
-      "title": "Un homenaje a los que ya no están 🐾 #shorts #cats",
-      "url": "https://www.youtube.com/shorts/5DuTCJu8p1M",
-      "published": "2026-11-17T22:38:31+00:00",
-      "thumb": "https://i2.ytimg.com/vi/5DuTCJu8p1M/hqdefault.jpg",
-      "views": 169,
-      "isShort": true,
-      "description": "Para todos los gaticos que un día fueron los dueños de la casa y hoy vuelan alto. Se fueron, pero dejaron su mirada, su manía y sus huellas para siempre. Este video está hecho con IA en su honor."
-    },
-    {
-      "id": "KL_fxUldvQc",
-      "title": "¿Qué son estas horas de llegar? #shorts #fiesta",
-      "url": "https://www.youtube.com/shorts/KL_fxUldvQc",
-      "published": "2026-11-17T18:35:38+00:00",
-      "thumb": "https://i4.ytimg.com/vi/KL_fxUldvQc/hqdefault.jpg",
-      "views": 156,
-      "isShort": true,
-      "description": ""
     }
   ]
 }
