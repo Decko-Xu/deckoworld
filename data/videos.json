@@ -1,16 +1,26 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-24T13:43:30-05:00",
-  "updated": "2026-11-24T13:43:30-05:00",
+  "fetchedAt": "2026-11-24T19:44:48-05:00",
+  "updated": "2026-11-24T19:44:48-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "-nRTktBbEso",
+      "title": "La familia mantenida, en siesta #Shorts",
+      "url": "https://www.youtube.com/shorts/-nRTktBbEso",
+      "published": "2026-11-24T19:45:06+00:00",
+      "thumb": "https://i2.ytimg.com/vi/-nRTktBbEso/hqdefault.jpg",
+      "views": 790,
+      "isShort": true,
+      "description": "La familia de mantenidos, toda en el sofá. Siesta general: nadie trabaja, todos duermen."
+    },
     {
       "id": "JHKpOuEwLJY",
       "title": "Francesca en modo hibernación #shorts #cat",
       "url": "https://www.youtube.com/shorts/JHKpOuEwLJY",
       "published": "2026-11-24T15:50:43+00:00",
       "thumb": "https://i3.ytimg.com/vi/JHKpOuEwLJY/hqdefault.jpg",
-      "views": 502,
+      "views": 725,
       "isShort": true,
       "description": "Francesca acomoda la cobija para dormir todo el día. Trabajo, ni de lejos: modo hibernación."
     },
@@ -50,7 +60,7 @@
       "url": "https://www.youtube.com/shorts/jLpunahT8PM",
       "published": "2026-11-21T16:00:10+00:00",
       "thumb": "https://i3.ytimg.com/vi/jLpunahT8PM/hqdefault.jpg",
-      "views": 1061,
+      "views": 1065,
       "isShort": true,
       "description": "Francesca se plantó de guardia: llegó el árbol de Amazon y nadie lo toca. Hasta que se oyó un ruido..."
     },
@@ -100,7 +110,7 @@
       "url": "https://www.youtube.com/shorts/XKhhM2XL-14",
       "published": "2026-11-19T14:13:03+00:00",
       "thumb": "https://i1.ytimg.com/vi/XKhhM2XL-14/hqdefault.jpg",
-      "views": 989,
+      "views": 990,
       "isShort": true,
       "description": "Todavía no llega diciembre y Francesca ya le declaró la guerra al árbol de Navidad. Se agazapa, ataca y después te mira como si nada hubiera pasado. ¿Yo? No fui. MODO ATAQUE."
     },
@@ -143,16 +153,6 @@
       "views": 155,
       "isShort": true,
       "description": ""
-    },
-    {
-      "id": "5nYA7Gw4gQY",
-      "title": "5 razones por las que nadie trabaja #shorts",
-      "url": "https://www.youtube.com/shorts/5nYA7Gw4gQY",
-      "published": "2026-11-17T15:24:59+00:00",
-      "thumb": "https://i2.ytimg.com/vi/5nYA7Gw4gQY/hqdefault.jpg",
-      "views": 1164,
-      "isShort": true,
-      "description": "En esta casa nadie trabaja, nadie paga arriendo, y el único turno que cumplen es el de la comida. Cinco pruebas de que los mantenidos tienen el control."
     }
   ]
 }
