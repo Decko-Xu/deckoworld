@@ -1,16 +1,26 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-25T13:37:55-05:00",
-  "updated": "2026-11-25T13:37:55-05:00",
+  "fetchedAt": "2026-11-25T19:44:39-05:00",
+  "updated": "2026-11-25T19:44:39-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
+    {
+      "id": "170NojC6jRo",
+      "title": "Vamos a ser amigos, pergunta, Francesca? #shorts #cat",
+      "url": "https://www.youtube.com/shorts/170NojC6jRo",
+      "published": "2026-11-25T19:30:32+00:00",
+      "thumb": "https://i2.ytimg.com/vi/170NojC6jRo/hqdefault.jpg",
+      "views": 683,
+      "isShort": true,
+      "description": "Francesca pregunta cosas a sus suscritores, Ates de dormir todo el día. Trabajo, ni de lejos..."
+    },
     {
       "id": "SrO9FfAVnn4",
       "title": "Ya no lo aguanto más... tengo hambre 🐶 #shorts #dogs",
       "url": "https://www.youtube.com/shorts/SrO9FfAVnn4",
       "published": "2026-11-25T17:00:25+00:00",
       "thumb": "https://i4.ytimg.com/vi/SrO9FfAVnn4/hqdefault.jpg",
-      "views": 650,
+      "views": 944,
       "isShort": true,
       "description": "Muy temprano para confesarlo, pero los mantenidos ya no aguantan más: tienen hambre. La fiestera come, los cuatro arrasan con el plato... y no queda ni una migaja."
     },
@@ -20,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/RXayjNZe-iM",
       "published": "2026-11-25T15:11:21+00:00",
       "thumb": "https://i3.ytimg.com/vi/RXayjNZe-iM/hqdefault.jpg",
-      "views": 685,
+      "views": 736,
       "isShort": true,
       "description": "Según él, es el más bonito de los mantenidos. La fiestera está al lado, pero la cámara es toda suya."
     },
@@ -30,7 +40,7 @@
       "url": "https://www.youtube.com/shorts/-nRTktBbEso",
       "published": "2026-11-24T19:45:06+00:00",
       "thumb": "https://i2.ytimg.com/vi/-nRTktBbEso/hqdefault.jpg",
-      "views": 793,
+      "views": 797,
       "isShort": true,
       "description": "La familia de mantenidos, toda en el sofá. Siesta general: nadie trabaja, todos duermen."
     },
@@ -40,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/JHKpOuEwLJY",
       "published": "2026-11-24T15:50:43+00:00",
       "thumb": "https://i3.ytimg.com/vi/JHKpOuEwLJY/hqdefault.jpg",
-      "views": 793,
+      "views": 803,
       "isShort": true,
       "description": "Francesca acomoda la cobija para dormir todo el día. Trabajo, ni de lejos: modo hibernación."
     },
@@ -50,7 +60,7 @@
       "url": "https://www.youtube.com/shorts/raqWXyxCmsY",
       "published": "2026-11-23T20:55:02+00:00",
       "thumb": "https://i3.ytimg.com/vi/raqWXyxCmsY/hqdefault.jpg",
-      "views": 86,
+      "views": 88,
       "isShort": true,
       "description": "#dji"
     },
@@ -60,7 +70,7 @@
       "url": "https://www.youtube.com/shorts/aYkQ8AjVNr8",
       "published": "2026-11-22T21:37:57+00:00",
       "thumb": "https://i2.ytimg.com/vi/aYkQ8AjVNr8/hqdefault.jpg",
-      "views": 1024,
+      "views": 1033,
       "isShort": true,
       "description": "Los mantenidos se le echaron encima a la fiestera. Trabajo, ni de lejos."
     },
@@ -70,7 +80,7 @@
       "url": "https://www.youtube.com/shorts/0WH2t_-6z5g",
       "published": "2026-11-21T22:15:30+00:00",
       "thumb": "https://i1.ytimg.com/vi/0WH2t_-6z5g/hqdefault.jpg",
-      "views": 1041,
+      "views": 1043,
       "isShort": true,
       "description": "Los mantenidos se le echaron encima a la fiestera. Trabajo, ni de lejos."
     },
@@ -90,7 +100,7 @@
       "url": "https://www.youtube.com/shorts/80z5EfOR16Q",
       "published": "2026-11-20T22:23:52+00:00",
       "thumb": "https://i1.ytimg.com/vi/80z5EfOR16Q/hqdefault.jpg",
-      "views": 988,
+      "views": 990,
       "isShort": true,
       "description": "Francesca lo tiene claro: no tiene trabajo, no paga arriendo, no aporta nada… y aun así está agotada."
     },
@@ -100,7 +110,7 @@
       "url": "https://www.youtube.com/shorts/msfavqMZoEY",
       "published": "2026-11-20T16:45:17+00:00",
       "thumb": "https://i2.ytimg.com/vi/msfavqMZoEY/hqdefault.jpg",
-      "views": 1436,
+      "views": 1439,
       "isShort": true,
       "description": "Los mantenidos se agarraron otra vez: el cremita y el café, sobre la alfombra. El cremita no lo suelta. Pelea de mantenidos, round 3."
     },
@@ -130,7 +140,7 @@
       "url": "https://www.youtube.com/shorts/XKhhM2XL-14",
       "published": "2026-11-19T14:13:03+00:00",
       "thumb": "https://i1.ytimg.com/vi/XKhhM2XL-14/hqdefault.jpg",
-      "views": 990,
+      "views": 992,
       "isShort": true,
       "description": "Todavía no llega diciembre y Francesca ya le declaró la guerra al árbol de Navidad. Se agazapa, ataca y después te mira como si nada hubiera pasado. ¿Yo? No fui. MODO ATAQUE."
     },
@@ -140,19 +150,9 @@
       "url": "https://www.youtube.com/shorts/ysKWHuya_6g",
       "published": "2026-11-18T17:45:24+00:00",
       "thumb": "https://i2.ytimg.com/vi/ysKWHuya_6g/hqdefault.jpg",
-      "views": 977,
+      "views": 979,
       "isShort": true,
       "description": "Yo soñando con 19k suscriptores… y la realidad: 283 😢. No somos muchos, no somos pocos, pero estamos todos locos. Gracias a cada uno de los que llegaron al planeta: los mantenidos, la fiestera y los…"
-    },
-    {
-      "id": "ZNbu26R0klU",
-      "title": "Esto no es un hotel 🐾 #Shorts #Cat",
-      "url": "https://www.youtube.com/shorts/ZNbu26R0klU",
-      "published": "2026-11-18T13:43:53+00:00",
-      "thumb": "https://i3.ytimg.com/vi/ZNbu26R0klU/hqdefault.jpg",
-      "views": 934,
-      "isShort": true,
-      "description": "Hoy amanecieron con ganas de callejear como la mamá, y esto no es un hotel. Uno en la reja planeando la fuga, otro en la pantufla, y los demás en el cojín como si pagaran arriendo."
     }
   ]
 }
