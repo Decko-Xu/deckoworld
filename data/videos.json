@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-26T01:53:38-05:00",
-  "updated": "2026-11-26T01:53:38-05:00",
+  "fetchedAt": "2026-11-26T07:56:21-05:00",
+  "updated": "2026-11-26T07:56:21-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -50,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/JHKpOuEwLJY",
       "published": "2026-11-24T15:50:43+00:00",
       "thumb": "https://i3.ytimg.com/vi/JHKpOuEwLJY/hqdefault.jpg",
-      "views": 803,
+      "views": 928,
       "isShort": true,
       "description": "Francesca acomoda la cobija para dormir todo el día. Trabajo, ni de lejos: modo hibernación."
     },
@@ -90,7 +90,7 @@
       "url": "https://www.youtube.com/shorts/jLpunahT8PM",
       "published": "2026-11-21T16:00:10+00:00",
       "thumb": "https://i3.ytimg.com/vi/jLpunahT8PM/hqdefault.jpg",
-      "views": 1067,
+      "views": 1068,
       "isShort": true,
       "description": "Francesca se plantó de guardia: llegó el árbol de Amazon y nadie lo toca. Hasta que se oyó un ruido..."
     },
