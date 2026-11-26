@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-26T07:56:21-05:00",
-  "updated": "2026-11-26T07:56:21-05:00",
+  "fetchedAt": "2026-11-26T13:41:56-05:00",
+  "updated": "2026-11-26T13:41:56-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -10,7 +10,7 @@
       "url": "https://www.youtube.com/shorts/170NojC6jRo",
       "published": "2026-11-25T19:30:32+00:00",
       "thumb": "https://i2.ytimg.com/vi/170NojC6jRo/hqdefault.jpg",
-      "views": 686,
+      "views": 683,
       "isShort": true,
       "description": "Francesca pregunta cosas a sus suscritores, Ates de dormir todo el día. Trabajo, ni de lejos..."
     },
@@ -30,7 +30,7 @@
       "url": "https://www.youtube.com/shorts/RXayjNZe-iM",
       "published": "2026-11-25T15:11:21+00:00",
       "thumb": "https://i3.ytimg.com/vi/RXayjNZe-iM/hqdefault.jpg",
-      "views": 736,
+      "views": 735,
       "isShort": true,
       "description": "Según él, es el más bonito de los mantenidos. La fiestera está al lado, pero la cámara es toda suya."
     },
@@ -50,7 +50,7 @@
       "url": "https://www.youtube.com/shorts/JHKpOuEwLJY",
       "published": "2026-11-24T15:50:43+00:00",
       "thumb": "https://i3.ytimg.com/vi/JHKpOuEwLJY/hqdefault.jpg",
-      "views": 928,
+      "views": 1002,
       "isShort": true,
       "description": "Francesca acomoda la cobija para dormir todo el día. Trabajo, ni de lejos: modo hibernación."
     },
