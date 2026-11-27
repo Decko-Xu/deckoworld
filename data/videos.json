@@ -1,7 +1,7 @@
 {
   "source": "RSS oficial de YouTube: https://www.youtube.com/feeds/videos.xml?channel_id=UCy3N1TamDtigaMVb2373SoA",
-  "fetchedAt": "2026-11-27T07:53:10-05:00",
-  "updated": "2026-11-27T07:53:10-05:00",
+  "fetchedAt": "2026-11-27T13:41:54-05:00",
+  "updated": "2026-11-27T13:41:54-05:00",
   "note": "Títulos, fechas, miniaturas y vistas tomados del RSS público. No inventar datos. Este archivo lo actualiza el flujo de GitHub Actions.",
   "videos": [
     {
@@ -10,7 +10,7 @@
       "url": "https://www.youtube.com/shorts/170NojC6jRo",
       "published": "2026-11-25T19:30:32+00:00",
       "thumb": "https://i2.ytimg.com/vi/170NojC6jRo/hqdefault.jpg",
-      "views": 943,
+      "views": 947,
       "isShort": true,
       "description": "Francesca pregunta cosas a sus suscritores, Ates de dormir todo el día. Trabajo, ni de lejos..."
     },
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/shorts/SrO9FfAVnn4",
       "published": "2026-11-25T17:00:25+00:00",
       "thumb": "https://i4.ytimg.com/vi/SrO9FfAVnn4/hqdefault.jpg",
-      "views": 1034,
+      "views": 1035,
       "isShort": true,
       "description": "Muy temprano para confesarlo, pero los mantenidos ya no aguantan más: tienen hambre. La fiestera come, los cuatro arrasan con el plato... y no queda ni una migaja."
     },
